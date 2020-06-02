@@ -20,6 +20,8 @@ En plus d'une école de pratique de la discipline du jeu de théâtre et de clow
 <iframe src="https://player.vimeo.com/video/394207199" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
 <br>
+*"Zoro est ravi d'apparaître ici, sur scène, parce que c'est une chance quand même d'avoir des yeux et des oreilles vers soi, de l'attention, enfin. Zoro répond avec amour à la présence du public nous baladant de droite à gauche, de haut en bas, nous immobilisant, nous faisant éclater en rire collectif. Mais la peine reste en sourdine. Car le clown sait que tout cela va disparaître, que la beauté de l'attention tournée va disparaître. Et se demande pourquoi ? Et qui au juste va disparaître, à part lui, à la fin du spectacle ? ..."*
+<br>
 
 #### « Le Clown et la Fée » 
 - **Réservations**: sur [la billetterie en ligne HelloAsso](https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-fevrier-2020)
