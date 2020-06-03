@@ -121,7 +121,7 @@ Description en cours de rédaction.
    
 ---
 ---
-### CO-CRÉATIONS, C0-ÉCRITURE: 
+### CO-CRÉATIONS, Co-ÉCRITURE: 
 #### « Private Joke»
 Description en cours de rédaction.  
 
