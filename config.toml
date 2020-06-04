@@ -47,7 +47,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Spectacles"
-  url = "/activites-creations/spectacles-saison-2019-2020"
+  url = "/spectacles-saison-2019-2020"
 
   [[params.navlinks]]
   name = "L' association"
