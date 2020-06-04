@@ -1,5 +1,5 @@
 +++
-image = "/img/portfolio/2020.04.Confinement-loic-annivlucie.jpg"
+image = "/img/portfolio/nouvelle-collegiale-mai-2020.jpg"
 showonlyimage = false
 draft = false
 date = "2020-05-25T08:20:57.917Z"
@@ -7,9 +7,9 @@ title = "Une nouvelle Collégiale pour TeDua | Mai 2020 [Annonce]"
 weight = 1
 +++
 
-Nous -Habib, Jonathan, Cynthia, Bastien, Lucie, et moi- avons proposé aux personnes extérieures aux cours de théâtre, qui ont été présentes et ont exprimé des mots, des gestes tendres envers l’association, de rejoindre la Collégiale. 
-Que la vie associative reste le coeur de tout cela.
-Qu'ils jouent le rôle de public de tout cela.
+Nous -Habib, Jonathan, Cynthia, Bastien, Lucie, et moi- avons proposé aux personnes extérieures aux cours de théâtre, qui ont été présentes et ont exprimé des mots, des gestes tendres envers l’association, de rejoindre la Collégiale.   
+Que la vie associative reste le coeur de tout cela.  
+Qu'ils jouent le rôle de public de tout cela.  
 
 Voici donc les nouveaux membres de la collégiale 2020 :
 <!--more-->
