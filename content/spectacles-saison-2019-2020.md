@@ -9,13 +9,13 @@ draft: false
 En plus d'une école de pratique du jeu de clown et de théâtre, l'association TeDua est une plateforme de créations professionnelles et amateures, prêtes à être jouées et diffusées, pour tous les publics.
 
 ### « Zoro Zoraï » 
-- **Réservations**: prochainement
-- **Site web** : publication le mi-juin (https://zorozorai.home)  
+- **Réservations**: pour le 25 juillet, prochainement sur [lecerisier.org](http://lecerisier.org/) 
+- **Site web** : [www.zorozorai.land](https://www.zorozorai.land)
 - **Dates de représentation**: 24,25,26,27,28 fév 2020  
 - **Public**: adultes, ados, enfants (3-12 ans), familles   
 - **Nombre de représentations**: 5  
 - **Genre**: Pro | Clown, Improvisation, Intime, Social, Poésie   
-- **Comédien | Metteur en scène**: Jonathan Dupui | Alexandre Giraud    
+- **Comédien | Metteur en scène**: Jonathan Dupui | Alex Giraud    
 
 <iframe src="https://player.vimeo.com/video/425954541" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
@@ -27,6 +27,8 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 <br>
 <br>
 
+<p><i>"Zoro est ravi d'apparaître ici, sur scène, parce que c'est une chance quand même d'avoir des yeux et des oreilles vers soi, de l'attention, enfin. Zoro répond avec amour à la présence du public nous baladant de droite à gauche, de haut en bas, nous immobilisant, nous faisant éclater en rire collectif. Mais la peine reste en sourdine. Car le clown sait que tout cela va disparaître, que la beauté de l'attention tournée va disparaître. <br>Et se demande pourquoi ? <br>Et qui au juste va disparaître, à part lui, à la fin du spectacle ? ..."</i></p> 
+<br>
 
 ---
 
@@ -39,7 +41,7 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 - **Public**: enfants (3-12 ans), familles   
 - **Nombre de représentations**: 23  
 - **Genre**: Pro | Théâtre, Intime, Musical, Intéractif  
-- **Comédiens | Metteur en scène**: Alexandre Giraud (anciennement Thibaud Ghidone), Julie Hercberg | Jonathan Dupui.   
+- **Comédiens | Metteur en scène**: Alex Giraud (anciennement Thibaud Ghidone), Julie Hercberg | Jonathan Dupui.   
 
 <iframe src="https://player.vimeo.com/video/378806590" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
@@ -61,7 +63,7 @@ Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa 
 - **Public**: adultes, ados (à partir de 12 ans)   
 - **Nombre de représentations**: 4  
 - **Genre**: Clown, Délirant, Social, Poésie  
-- **Comédiens | Metteur en scène**: Alexandre Galley, Alexandre Giraud, Anne Lucie Dumay, Bastien Lasserre, Cynthia Perrein, Habib Belaribi, Ronan Lestrade, Tristan Leyri | Jonathan Dupui.   
+- **Comédiens | Metteur en scène**: Alexandre Galley, Alex Giraud, Anne Lucie Dumay, Bastien Lasserre, Cynthia Perrein, Habib Belaribi, Ronan Lestrade, Tristan Leyri | Jonathan Dupui.   
 
 <iframe src="https://player.vimeo.com/video/388689659" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
