@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Journal de Bord de la vie associative de TeDua: espace de rencontres autour de la pratique de la Discipline du Jeu, de Clown et de théâtre (www.association-tedua.fr). "
   copyright = "copyleft(2020)"
   sidebarAbout = [
-    "Fenêtre sur la vie associative de TEDUA."
+    "Fenêtre sur la vie associative de TeDua, espace de rencontres autour de la pratique du jeu de Clown et de théâtre."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -41,16 +41,16 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Activités, Créations"
-  url = "/activites-creations/"
+  name = "ACTIVITÉS, CRÉATIONS"
+  url = "/accueil"
   home = true
 
   [[params.navlinks]]
-  name = "Spectacles"
+  name = "SPECTACLES"
   url = "/spectacles-saison-2019-2020"
 
   [[params.navlinks]]
-  name = "L' association"
+  name = "L'ASSOCIATION"
   url = "https://www.association-tedua.fr/"
 
   [params.social]
