@@ -19,6 +19,6 @@ collections:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Type de bloc", name: "showonlyimage", widget: "boolean"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Place du bloc", name: "weight, widget: "number", valueType: "int"}
+      - {label: "Place du bloc", name: "weight", widget: "number", valueType: "int"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Corps de l'article", name: "body", widget: "markdown"}
