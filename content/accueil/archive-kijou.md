@@ -10,7 +10,7 @@ weight = 998
 ### 1. APPEL & INVITATIONS POUR KIJOU? #2 (*Automne 2019*)
 
 
-<center> <img src="/img/kijou2-appel.png" alt="kijou? 1" height="710" width="630"> </center>
+<center> <img src="/img/portfolio/kijou2-appel.png" alt="kijou? 1" height="710" width="630"> </center>
 
 <p style="text-align:center;">"On va vers là où va le jeu, parce que c'est là que ça va." - Jo</p>
 
@@ -39,7 +39,7 @@ D'autres extraits filmés du spectacle de cette 1ere sortie de résidence sont d
 
 En première partie de la sortie de résidence de "De l'enfance", s'est joue [le spectacle "LE CLOWN ET LA FÉE"](https://leclownetlafee.fr/), également écrit et mis en scène par Jonathan Dupui, et interprété par les comédiens pros [Julie Hercberg](https://leclownetlafee.fr/pages/l-equipe/) et [Thibaud Ghidone](https://leclownetlafee.fr/pages/l-equipe/) devant 70 parents et enfants.     
 
-<a href="https://leclownetlafee.fr/" rel="site web officiel Le clown et la fée"><img src="/img/site-web-le-clown-et-la-fee.png" alt="" /></a>
+<a href="https://leclownetlafee.fr/" rel="site web officiel Le clown et la fée"><img src="/img/portfolio/site-web-le-clown-et-la-fee.png" alt="" /></a>
 
 En cliquant par ici vous pouvez visiter le site officiel du spectacle avec:   
 - [la technique, l'administration et la présentation de projet]((https://leclownetlafee.fr/pages/la-technique-et-l-administration/))   

@@ -10,7 +10,7 @@ weight = 986
 
 *Anne-Lucie raconte...*
 
-<img src="/img/uploads/2020.04.Confinement-annelu-canape-jardin.jpg" alt="Le potager" height="220" width="350">
+<img src="/img/portfolio/2020.04.Confinement-annelu-canape-jardin.jpg" alt="Le potager" height="220" width="350">
 <br>
 <br>
 
@@ -23,7 +23,7 @@ Puis je perds la notion du temps et les activités se mélangent : des mangas, Z
 (\*) *Note de la rédaction ;-0 : Serg'Engarcia est le clown 'politico-social', pendant que Zoro Zoraï est le clown 'poétique' joué par Jonathan. Plus d'explications à venir par l'un des versants du clown lui-même...* 
 
 
-<img src="/img/uploads/2020.04.Confinement-lustres-jardin.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
+<img src="/img/portfolio/2020.04.Confinement-lustres-jardin.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
 
 L’activité quotidienne est le **jardin**. Jonathan en est le chef de chantier, **au service de la beauté**.   
 Les fleurs ont pris la place des mauvaises herbes. Les semis préparés par Cynthia et Bastien sont bientôt prêts à être plantés dans les buttes bêchées par Jonathan, Cynthia, Habib et Bastien. La caravane est installée dans le jardin, ce qui nous offre un petit coin salon, salle à manger, et table de travail. Il y a aussi le coin du feu -ce coin-là date- où les voisins nous retrouvent le soir, attirés par la fumée. Nous avons ramassé les déchets autour de nos maisons, et contacté la Mairie de Floirac qui a mandaté une entreprise pour venir les ramasser. Nous avons gagné du terrain en coupant les grillages. Jonathan a installé un **jardin-expo à partager** entre les familles bulgares et turques et nous. "
@@ -34,7 +34,7 @@ Les fleurs ont pris la place des mauvaises herbes. Les semis préparés par Cynt
 
 ...le mercredi 1er Avril, nous nous retrouvons Cynthia, Jonathan, Bastien, Habib, Lucie et moi autour de la table de la caravane pour reprendre le travail associatif pour Tedua. 
 
-<img src="/img/uploads/Confinement-projets-en-cours.png" alt="Le potager" style="float:center;width:320px;height:220px;"> 
+<img src="/img/portfolio/Confinement-projets-en-cours.png" alt="Le potager" style="float:center;width:320px;height:220px;"> 
 
 
 <a href="https://tree.taiga.io/project/habsinn-tedua/kanban">  POUR CONSULTER LE DÉTAIL DES PROJETS EN COURS, CLIQUE ICI --->> </a>
@@ -49,7 +49,7 @@ Les fleurs ont pris la place des mauvaises herbes. Les semis préparés par Cynt
 CYNTHIA est heureuse de pouvoir exprimer sa **créativité** avec Tedua et serait d’accord pour être prestataire pour d’autres structures : l’occasion de *« gagner des thunes »*. Pour cela, nous sommes d’accord que son travail doit gagner en **visibilité** et la forme et l'activité de son compte instagram ne sont pas 'suffisants'.
 Elle tient à garder des *« temps de chill »* et est reconnaissante de cette vie collective. Elle souhaite continuer à **jouer sur scène**.
 
-<img src="/img/uploads/2020.04.Confinement-cynthia.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
+<img src="/img/portfolio/2020.04.Confinement-cynthia.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
 
 HABIB rêve d’une vie de **tribu-village** connecté au monde. Il trouve un plaisir dans le champ de l’**écriture numérique** et ce que ça nous apporte à l’extérieur de nous 5. On remarque que c’est une discipline qui demande à bâtir, à **sortir des idées et passer à l’action**. L’intérêt est que cela devienne visible mais ça demande beaucoup de travail. D’après lui, le champ du numérique peut-être bénéfique pour notre économie. Il aimerait ne pas être seul, c’est pourquoi il se tourne vers [Aquilenet](https://www.aquilenet.fr), et surtout vers Sacha et Pierre, qu'il considère comme des amis. Jonathan suggère qu’il y ait une personne qui s’occupe de l’esthétique, dans leur équipe pour porter le message de l'économie pair-à-pair. 
 Il souhaite produire des supports (multimédia) qui **racontent une histoire dans le but de créer du lien**. Il a envie de continuer à faire des vidéos mais rencontre un souci de stockage de données qui l’empêche de monter les vidéos déjà existantes (Zoro Zoraï, le festival de Noël), et reconnait que ce n'est qu'une envie non concrétisée. Il souhaite **briller sur scène en clown**. 
@@ -60,7 +60,7 @@ Elle propose qu’on organise des **temps de travail ensemble**, d’autant que 
 
 > « La gratitude est saine mais elle indique la nécessité que l’attention de l’autre soit là. Et si c’est mon attention que j’offre ? Observez comme ça fait du bien d’avoir l’attention des autres vers soi. Alors maintenant, offrez-la aux autres. » -jo
 
-<img src="/img/uploads/2020.04.Confinement-Bastien-potager.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
+<img src="/img/portfolio/2020.04.Confinement-Bastien-potager.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
 
 BASTIEN apprécie le confort d’être tranquille, de n’avoir rien à faire, d’agir à partir de rien. Il avoue qu’**enseigner la discipline du jeu** (projet qu’il soit prof de théâtre pour ados) l’**effraie**. Jonathan lui rappelle que la partie intellectuelle lui est aussi offerte, qu’il n’a pas besoin de craindre le cérébral. Pour lui, la recherche a toujours commencé par un goût personnel. Comment s’appliquer maintenant à chercher pour le collectif ?  Bastien a aussi un intérêt pour la vidéo et le montage. Un autre intérêt personnel est de **briller sur scène en clown** et participer au concours des **incroyables talents** – aussi pour donner de la visibilité à Tedua.   
 Il partage également ce rêve commun de **vivre collectivement à la campagne.**
@@ -69,7 +69,7 @@ Il partage également ce rêve commun de **vivre collectivement à la campagne.*
 
 ANNE LUCIE : "J'apprécie avoir des moments de rien et me tenir éloignée du salariat. Je souhaite m’employer à la créativité : **faire l’expérience de se soumette à l’art sans tenir à garder le contrôle**. Plus de confort matériel m’irait, que nos activités nous amènent plus d’argent. J’aimerais que Tedua se poursuive en école : **l’école de la discipline du jeu**, et que les spectacles de Zoro, le Clown et la fée, etc, tournent dépendamment et en lien avec l’école. J’apprécie être la chef de Tedua, je souhaite le rester et dépasser mon père dans **l’art du management**. Je partage le goût de **jouer sur scène.** 
 
-<img src="/img/uploads/2020.04.Confinement-jo-dechetterie-papier.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
+<img src="/img/portfolio/2020.04.Confinement-jo-dechetterie-papier.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
 
 JONATHAN souhaite la tranquillité. Il a goûté à de **nouvelles formes d’écriture** et y trouve un plaisir : ces nouvelles formes proposent un univers plus vaste, multiformes, multi budget. Il **espère rencontrer un technicien lumière et son** pour avoir cet expertise pour les spectacles. Il souhaite avoir un **cadre** et s’y sent à l’aise (ALEX s’est présenté à lui comme metteur en scène pour Zoro). Il aimerait pouvoir profiter d’un terrain disproportionné. On remarque qu’il a un goût pour l’espace extérieur. Il souhaite **avancer dans cette proposition de nouvelle société** et être témoin que ça commence à prendre. Et s’intéresser aux intérêts personnels de Violette. 
 Il souhaite être le **comédien** du prochain spectacle qu'il écrit, *"Zor et le gardien du phare"*, et **trouver la formule magique pour tous les intérêts personnels**. 
@@ -90,7 +90,7 @@ Jonathan reste prestataire de Tedua concernant la discipline du jeu, et pas déc
 2) **La culture à l’heure du confinement**:   
 Suite à la demande de Fred d'avoir un support pour revoir le Clown et la Fée avec son fils, en attendant une prochaine date, et comme les différents acteurs culturels qui mettent en ligne leurs spectacles pendant le confinement, on se pose la question de mettre à disposition une jolie version imprimée et numérique du Clown et la Fée. Cependant, on tient à y **installer un espace de conversation, pour sortir de l’acte étroit de seulement consommer un produit culturel**. 
 
-<center><img src="/img/uploads/2020.04.Confinement-loic-annivlucie.jpg" alt="Loïc à l'anniv de Lucie" width="320px" height="220px"> </center>
+<center><img src="/img/portfolio/2020.04.Confinement-loic-annivlucie.jpg" alt="Loïc à l'anniv de Lucie" width="320px" height="220px"> </center>
 
 3) **Des idées pour récolter des sous**:  
 Une idée de prestation nous passe par la tête : un accompagnement par **l’art thérapie et la gestion de conflit** dans les entreprises et associations. Cynthia souhaite animer un atelier gestion de conflit pour les asso. Bastien se propose en soutien. Habib a déjà vendu des prestations de conseil en communication sociale et en transition numérique auprès d'entreprises de toutes tailles, privées comme publiques. Jonathan sait animer des groupes d'individus autour d'un sujet commun par la discipline du jeu.
@@ -101,7 +101,7 @@ On propose de travailler le théâtre l’année prochaine à partir de **pièce
 <br> 
 
 #### Conclusion...
-<img src="/img/uploads/2020.04.Confinement-AL-Jo-jardin.png" alt="Le potager" style="float:center;width:320px;height:220px;"> 
+<img src="/img/portfolio/2020.04.Confinement-AL-Jo-jardin.png" alt="Le potager" style="float:center;width:320px;height:220px;"> 
 
 "Puis retour aux activités dans le **jardin**, à Walking Dead, aux dîners, aux **explorations**. J’ai commencé à construire une cabane en tissus. Je ne me pose plus la question de quel jour on est... "
 

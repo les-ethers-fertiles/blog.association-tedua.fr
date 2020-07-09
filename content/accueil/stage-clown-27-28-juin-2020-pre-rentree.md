@@ -7,7 +7,7 @@ title = "Stage Clown de pré-rentrée | 27&28 juin 2020 [ANNONCE]"
 weight = 983
 +++
 
---pré-rentrée 2020/2021--   
+
 TEDUA vous invite à un moment d’immersion pour **expérimenter le lâcher prise et l’expression libre** à travers des exercices de jeu mobilisant  
 le corps,   
 la voix,   
