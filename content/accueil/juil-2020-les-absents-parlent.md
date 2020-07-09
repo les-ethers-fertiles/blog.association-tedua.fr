@@ -7,17 +7,25 @@ showonlyimage = false
 weight = 987
 +++
 
---Juil 2020, texte--
+--Juil 2020, Essai politique--
      
-Vendredi 12 juin, accompagnée par Habib, j'ai visité l'Hermitage Lab (site internet) un tiers lieu de travail et vie en collectif situé entre Compiègne (60) et Soissons (02). Nous avons rencontré Jean, Nicolas, Mathieu, Loïc, Marie, Marine. C'est un lieu où les rencontres entre différents mondes sont accueillies et impulsées : bénévoles, entrepreneurs, ruraux, urbains, développeurs, paysans, geek, ingénieurs, écolos, brasseurs, actifs, retraités, décrocheurs....
+Vendredi 12 juin, accompagnée par Habib, j'ai visité [l'Hermitage Lab](https://www.hermitagelelab.com/) un tiers lieu de travail et vie en collectif situé entre Compiègne (60) et Soissons (02). Nous avons rencontré [Jean, Nicolas, Mathieu, Loïc, Marie, Marine](https://www.hermitagelelab.com/l_hermitage/). C'est un lieu où les rencontres entre différents mondes sont accueillies et impulsées : bénévoles, entrepreneurs, ruraux, urbains, développeurs, paysans, geek, ingénieurs, écolos, brasseurs, actifs, retraités, décrocheurs....
 <!--more-->  
 
-C'est une équipe qui se permet de rêver grand. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rd1xTx78Vx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+
+C'est une équipe qui se permet de rêver grand.   
 Dans cet article, je m'adresse particulièrement à Jean que je vois comme chef de ce lieu et ce projet, non pas parce qu'il se nomme chef mais parce que j'ai perçu la posture du chef à travers son plaisir, son amour à observer les gens et leurs systèmes. Je lui adresse la parole de l'artiste, celui qui fait miroir du monde : qui nous met en garde, nous qui rêvons d'un monde meilleur, d'un monde paisible, un monde pour tous, de n'oublier personne.  
 
-## Texte - 'Les absents parlent' : 
+---
 
-" Vous pensez à nous ? 
+
+
+<font face = "Courier M" size = "5">Les absents parlent. </font>
+
+<font face = "Courier M" size = "4">"Vous pensez à nous ? 
 
 Parce que nous sommes nombreux. 
 Nous avons des montagnes de problèmes, de revendications, de désirs, d’espoirs et de désillusions. 
@@ -84,5 +92,13 @@ Et le vrai monde est là, il n’a pas besoin de vos projections.
 Et il vous attend.
 Il ne reste plus qu’à savoir comment vous allez l’accueillir.
 De la même manière, comment vous allez accueillir nos propos.
-Qu’avons-nous à faire si vous n’en faites rien ? "
+Qu’avons-nous à faire si vous n’en faites rien ? "</font>
+
+---
+
+*"Les absents parlent" est un texte écrit par [Jonathan Dupui](https://blog.association-tedua.fr/accueil/jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown/) à l'occasion d'un événement ["DEMOCRACY 4 ALL"](https://www.democracy4all.barcelona/) lors de la Bockchain Week à Barcelone en octobre 2019, où nous avons été invité par [David Bovill](http://david.bovill.me/view/welcome-visitors/view/my-sites/view/davids-writing-sites).*
+
+*Je serai ravie de recevoir vos retours sur cet article,  
+Anne Lucie.   
+(anne.lucie.dumay@aquilenet.fr, 06 15 60 97 04)*
 
