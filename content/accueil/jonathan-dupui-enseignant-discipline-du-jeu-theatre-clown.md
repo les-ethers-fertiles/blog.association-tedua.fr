@@ -10,7 +10,7 @@ weight = 985
 Jonathan est auteur, metteur en scène, enseignant, et comédien.
 Il a fait le conservatoire de Mérignac de septembre 2006 à juillet 2009. Tout en travaillant le jeu, il s'est mis à écrire et mettre en scène différents projets. Gérard David le lance en tant que professeur de théâtre à la fois pour les adultes et pour les enfants, au sein de la compagnie les Labyrinthes dès 2007.
 <!--more-->
-<left> <img src="/img/bio-jonathan.png" alt="jonathan dupui" height="300" width="750"> </left>
+<left> <img src="/img/portfolio/bio-jonathan.png" alt="jonathan dupui" height="300" width="750"> </left>
 
 
 
