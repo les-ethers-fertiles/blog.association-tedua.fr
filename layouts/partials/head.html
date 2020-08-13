@@ -32,3 +32,6 @@
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
+
+<!--CMS netlify-->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
