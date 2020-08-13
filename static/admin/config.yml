@@ -10,15 +10,15 @@ media_folder: "static/img/portfolio" # Media files will be stored in the repo un
 public_folder: "/img/portfolio" # The src attribute for uploaded media will begin with /img/uploads
 
 collections:
-  - name: "/admin/articles" # Used in routes, e.g., /admin/collections/blog
-    label: "Articles du Journal de Bord" # Used in the UI
+  - name: "accueil" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles pour la vie de Château" # Used in the UI
     folder: "content/accueil" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Type de bloc", name: "showonlyimage", widget: "boolean"}
+      - {label: "Type_de_bloc", name: "showonlyimage", widget: "boolean"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Place du bloc", name: "weight", widget: "number", valueType: "int"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Corps de l'article", name: "body", widget: "markdown"}
+      - {label: "Position_du_bloc", name: "weight", widget: "number", valueType: "int"}
+      - {label: "Date_de_publication", name: "date", widget: "datetime"}
+      - {label: "Article", name: "body", widget: "markdown"}
