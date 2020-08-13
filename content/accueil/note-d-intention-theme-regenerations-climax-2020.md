@@ -3,7 +3,7 @@ image = "/img/portfolio/note-d-intention-clown-et-fee.jpg"
 showonlyimage = true
 draft = false
 date = "2020-06-03T08:20:57.917Z"
-title = "Comment le spectacle 'le clown et la fée' parle de 'Régénérations'? | MI-SEPT 2020 [ACTIVITÉS]"
+title = "Comment le spectacle 'le clown et la fée' parle de 'Ré-générations' | MI-SEPT 2020 [ACTIVITÉS]"
 weight = 981
 +++
 
