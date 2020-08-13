@@ -3,7 +3,7 @@ image = "/img/portfolio/note-d-intention-clown-et-fee.jpg"
 showonlyimage = true
 draft = false
 date = "2020-06-03T08:20:57.917Z"
-title = "Comment le spectacle 'le clown et la fée' parle de 'Ré-générations' | MI-SEPT 2020 [ACTIVITÉS]"
+title = "Comment le spectacle 'le clown et la fée' parle de 'Ré-générations' | SEPT 2020 [ACTIVITÉS]"
 weight = 981
 +++
 
@@ -12,7 +12,10 @@ Qu'est-ce qu'un spectacle comme "[Le Clown et la Fée](https://www.leclownetlafe
 Voici une note d'intention écrite à ce sujet par Jonathan -auteur, metteur en scène de la pièce- ...
 <!--more-->
 
----
+<center> <img src="/img/portfolio/note-d-intention-clown-et-fee-horizontal.jpg" alt="les-nouveaux-gouverneurs" height="250" width="450"> </center>
+
+<br>
+
 
 **«** Il nous faut un monde pour réaliser ce qui nous est impossible seul. Et ce monde-là est déjà sous nos yeux, il est donc temps de les ouvrir et de l'accepter. Voilà le sujet du spectacle.   
 Ré-générations : le thème de [ce Climax](https://climaxfestival.fr/) est aussi l'exact double sujet du spectacle "Le Clown et La Fée".   
