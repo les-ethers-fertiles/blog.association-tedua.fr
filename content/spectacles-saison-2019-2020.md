@@ -11,9 +11,9 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 ### « Zoro Zoraï » 
 - **Réservations**: pour le 25 juillet, prochainement sur [lecerisier.org](http://lecerisier.org/) 
 - **Site web** : [www.zorozorai.land](https://www.zorozorai.land)
-- **Dates de représentation**: 24,25,26,27,28 fév 2020  
+- **Dates de représentation**: 2020: 24,25,26,27,28 fév /25 juil /8 août /12 sept  
 - **Public**: adultes, ados, enfants (3-12 ans), familles   
-- **Nombre de représentations**: 5  
+- **Nombre de représentations**: 7  
 - **Genre**: Pro | Clown, Improvisation, Intime, Social, Poésie   
 - **Comédien | Metteur en scène**: Jonathan Dupui | Alex Giraud    
 
@@ -37,7 +37,7 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 ### « Le Clown et la Fée » 
 - **Réservations**: sur [la billetterie en ligne HelloAsso](https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-fevrier-2020)
 - **Site web** : [www.leclownetlafee.fr](https://leclownetlafee.fr)   
-- **Dates de représentation**: 12,15,22 Nov / 12 Jan / 7-8 Fév / 20-21 Mar/ 19-22 Aoû  
+- **Dates de représentation**: 2019: 12,15,22 Nov | 2020: 12 Jan / 7-8 Fév / 20-21 Mar
 - **Public**: enfants (3-12 ans), familles   
 - **Nombre de représentations**: 23  
 - **Genre**: Pro | Théâtre, Intime, Musical, Intéractif  
@@ -59,7 +59,7 @@ Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa 
 ### « Les Nouveaux Gouverneurs » 
 - **Réservations**: sur [la billetterie en ligne HelloAsso](https://www.helloasso.com/associations/tedua/evenements/les-nouveaux-gouverneurs-2)
 - **Pages web** : [Blogpost - dernière représentation](http://localhost:1313/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) / [Évènement facebook - Février](https://www.facebook.com/events/506895513559426/)    
-- **Dates de représentation**: 21-22 Fév 2020/ 14-15 Juin 2019  
+- **Dates de représentation**: 2019: 14-15 Juin | 2020: 21-22 Fév   
 - **Public**: adultes, ados (à partir de 12 ans)   
 - **Nombre de représentations**: 4  
 - **Genre**: Clown, Délirant, Social, Poésie  
