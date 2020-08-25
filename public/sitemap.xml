@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/accueil/aout-2020-calendrier-des-stages-2020-2021/</loc>
+    <lastmod>2020-04-14T08:20:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/accueil/note-d-intention-theme-regenerations-climax-2020/</loc>
     <lastmod>2020-06-03T08:20:57+00:00</lastmod>
   </url>
@@ -88,12 +93,12 @@
   </url>
   
   <url>
-    <loc>/accueil/dec-2018-extrait-spectacle-de-l-enfance/</loc>
+    <loc>/accueil/de-l-enfance/</loc>
     <lastmod>2018-10-12T13:01:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/accueil/soumis-par-l-ecoute/</loc>
+    <loc>/accueil/dec-2018-extrait-spectacle-de-l-enfance/</loc>
     <lastmod>2018-10-12T13:01:33+02:00</lastmod>
   </url>
   
@@ -118,13 +123,18 @@
   </url>
   
   <url>
-    <loc>/accueil/</loc>
-    <lastmod>2020-07-09T13:01:33+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-08-24T17:14:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-03T21:28:43-05:00</lastmod>
+    <loc>/soumis-par-l-ecoute/</loc>
+    <lastmod>2020-08-24T17:14:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accueil/</loc>
+    <lastmod>2020-07-09T13:01:33+02:00</lastmod>
   </url>
   
   <url>
