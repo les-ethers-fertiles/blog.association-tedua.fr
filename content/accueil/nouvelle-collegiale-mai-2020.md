@@ -25,7 +25,7 @@ Voici donc les nouveaux membres de la collégiale 2020 :
 - **Ronan Lestrade** : il a été élève régulier des stages depuis 2018, il a suivi l’atelier clown 2018-2019 et fait partie de la troupe amateur des Nouveaux Gouverneurs et Mégaphonie.
 - **Alex Giraud** : il a rencontré la discipline du jeu de Jonathan avec les stages en 2018. Il a suivi l’atelier clown 2018-2019, l’atelier théâtre 2019-2020. Il fait partie de la troupe amateur des Nouveaux Gouverneurs, et est metteur en scène de Mégaphonie. Il remplace Thibaud Ghidone à partir de janvier 2020 pour jouer dans le spectacle pro Le Clown et la Fée. Pendant la résidence de Zoro Zoraï, il devient metteur en scène. Il est le moteur du projet de la web série autour de Zoro Zoraï, en cours d’écriture.
 C’est aussi le meilleur ami de Ronan.
-- **Dominique Lavigne** : elle est la compagne de Chakib, le père d’Habib. Retraitée, elle nous apporte son aide sur la comptabilité.
+- **Dominique Lavigne** : Retraitée ex-adjointe de direction d'un domaine viticole dans le Gers, rencontrée via Habib (élève clown-théâtre de Tedua), elle nous apporte son aide et son expérience sur la comptabilité.
 - **Aude Romedenne** : elle est une amie d’ami.e.s, devenue amie. Nous l’avons rencontré plusieurs fois sur les événements de la Veilleuse. Elle a participé au stage en novembre 2019, et est allée voir tous les spectacles de l’association.
 
 La collégiale est une place public de 1er rang : c’est une invitation à apporter son regard sur la vie associative et le contenu artistique. C’est aussi adhérer au mouvement collectif de Tedua.
