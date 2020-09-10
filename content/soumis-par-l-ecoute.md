@@ -6,13 +6,8 @@ date: 2020-08-24T17:14:43-05:00
 draft: false
 ---
 
-*La "discipline du jeu" est une approche du jeu de clown-théâtre développée par Jonathan Dupui au fur et à mesure de son parcours dans le monde du théâtre, du clown et du spectacle vivant en géneral.   
-De la place d'élève comédien, à celle de comédien interprète, puis d'enseignant, de metteur en scène, de scénographe et enfin d'auteur, s'est mis en mouvement un **questionnement sur la nature profonde du public**.   
-Cette recherche s'est matérialisée sous la forme d'une série de textes destinés d'abord **aux comédiens -mais aussi à tous ceux qui y percevront une parole touchante-, quelle que soit l'étendue de leur expérience du jeu sur scène**.*
-
-*Sur cet article de blog, les textes initialement écrits sur un cahier de l'auteur, sont quasiment à l'état brut, non organisés et non mis en forme. L'objectif est d'en produire une édition prochainement. Tous vos retours en ce sens seront plus que bienvenus.
-Vous pouvez écrire en ce sens à Habib ou Anne Lucie sur diffusion@association-tedua.fr .  
-Merci.*
+*La "discipline du jeu" est une approche du jeu de clown-théâtre développée par [Jonathan Dupui](http://localhost:35103/accueil/jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown/) au fur et à mesure de son parcours dans le monde du théâtre, du clown et du spectacle vivant en géneral.      
+La recherche qui l'accompagne, à propos de la nature profonde du public, s'est matérialisée ici sous la forme d'une série de 8 textes; destinés d'abord aux comédiens, mais aussi à tous ceux qui y percevront une parole touchante quelle que soit l'étendue de leur expérience du jeu sur scène.*
 
 
 ---
@@ -185,4 +180,11 @@ Que "toi" soit, mais pas "*parce que toi*".
 
 >Un texte s'exprime au silence. Les mots sonnent pour être reçus par ce silence.   
 >De la même manière que tous les bruits du monde.  
+
+---
+
+*Sur cet article de blog, les textes initialement écrits sur un cahier de l'auteur, sont quasiment à l'état brut, non organisés et non mis en forme. L'objectif est d'en produire une édition prochainement. Tous vos retours en ce sens seront plus que bienvenus : vous pouvez écrire à Habib ou Anne Lucie sur (diffusion@association-tedua.fr, 07 82 43 20 68) .  
+Merci.*
+
+
 
