@@ -8,11 +8,21 @@ draft: false
 
 *La "discipline du jeu" est une approche du jeu de clown-théâtre développée par [Jonathan Dupui](http://localhost:35103/accueil/jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown/) au fur et à mesure de son parcours dans le monde du théâtre, du clown et du spectacle vivant en géneral.      
 La recherche qui l'accompagne, à propos de la nature profonde du public, s'est matérialisée ici sous la forme d'une série de 8 textes; destinés d'abord aux comédiens, mais aussi à tous ceux qui y percevront une parole touchante quelle que soit l'étendue de leur expérience du jeu sur scène.*
-
+- Technique et écoute
+- Les trois corps du comédien
+- "L'action est morte"
+- Le calme
+- Le regard des autres
+- "Le sens de ce geste"
+- La parole du comédien
+- Dans le silence du public
+- "Tant que le public l'est"
+- La plus grande recherche du comédien
+- L'artiste est l'idiot
 
 ---
 
-### Technique et écoute du comédien
+### Technique et écoute
  
 Cette acceptation que le comédien doit se soumettre à l'écoute. Il n'a aucunement le droit de s'y dérober.  
 Plus le comédien affirmera son écoute, plus son champ d'actions ou sa palette d'émotions s'élargiront dans la souplesse, dans le calme.
@@ -108,6 +118,27 @@ S'exercer au calme permet de saisir le démarrage de toutes les agitations. Tout
 
 ---
 
+### Le regard des autres
+Nous connaissons bien cette peur futile qui dit : "je crains le regard des autres".  
+Nous connaissons aussi cette peur moins futile qui dit : "je m'en fous du regard des autres".   
+<br>
+Cette première, nous le savons, est celle qui peuple l'espace et le temps.   
+Nous le savons parce que nous savons précisément ce qu'est le regard, nous en connaissons sa certitude.  
+
+> Faire de comédien, public. 
+
+---
+
+### "Le sens de ce geste"
+
+> Le sens de ce geste est de toujours ouvrir l'accueil vers l'autre.  
+
+Un espace pour se réimplanter dans le monde.  
+De reconnaître notre souhait de paix et de partage, et de nous éloigner de la peur.  
+De monter sur scène et d'être d'accord avec la réalité de notre exposition : on ne peut y échapper.  
+
+---
+
 ### La parole du comédien
 
 > Quelle est donc la parole que celui qui est "soumis au jeu" a à porter de par le monde ?
@@ -127,42 +158,51 @@ Rencontrer tout ce que nous ne sommes pas, permet de bien saisir tout ce à quoi
 
 ---
 
+### Dans le silence du public
+
+Si vous avez le souhait que ca fasse histoire pour vous, il faut que je fasse jeu là où je me trouve.  
+Que signifie "où je me trouve" ? Où le jeu me trouve-t-il ?   
+Ce n'est qu'ici, dans les yeux du public, que je peux savoir que je fais jeu. Que je suis jeu.   
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;À partir de là, que reste-t-il à faire ? Jouer.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quoi ? Peu importe.  
+<br>
+Juste être certain que nous n'avons pas besoin de soi pour jouer.  
+SOI EST LÀ.  
+<br>
+Il est très important que je ne gêne personne. Et je ne gêne personne quand je joue. Et il n'y a que moi pour me sentir gêné, pour que ça rebondisse sur vous.  
+
+> Qu'est-ce que "ça" ?  
+
+Est-ce de la gêne aussi pour vous ? Ou est-ce un truc plus agressif, qui surgit en réponse ?   
+Et vous n'auriez pas tort.  
+Et vous auriez raison.  
+
+Même.  
+<br>
+Comment puis-je alors me permettre de rester certain que je ne peux vous échapper ? Vous plier ou vous soutraire ? Ou bien fais-je de l'hypnose ?  
+Peu importe !
+Tant que "histoire" apparaît dans le silence de mon public...  
+Quelle est votre nature ici public ?   
+Avez-vous besoin de le savoir ?
+<br>
+<br>
+Et je jouerai.  
+
+*Musique. Décor.*
+
+
+---
+
 ### "Tant que le public l'est"
 Tant que le public l'est, alors laissons faire.  
 Tant que le public l'est, alors ne touchons à rien.   
 Car ce n'est qu'à cela, que nous pouvons espérer nous reconnaître.   
-Tant que le public le soit.   
+Tant que le public l'est.   
 
 ---
 
-### L'artiste est l'idiot. 
-Car s'il veut suivre sa voie, il est obligé d'aller contre vents et marées, puisque son art ne peut exister que s'il transcende le reste.   
-Que l'art de l'artiste soit ce qu'il le dépasse lui-même. Car s'il se rend docile aux souverains, s'il se plie une seule fois, alors ce n'est plus de l'art qu'il fait mais un objet à vendre, à négocier...  
-Or la nature de tout art n'est que vent, n'est qu'un mouvement invisible.  
-<br>
-Ici l'artiste est bien l'idiot.   
-<br>
-Car seul celui qui sait pour qui l'art est fait et d'où l'art se produit, pourra accueillir la nourriture de la vie.Celle-là même qui ne peut pas être l'artiste.   
-Lui qui ne pourra jamais la donner à celui qui la veut, puisqu'il serait en train de passer à côté.   
-L'artiste est bien celui qui passe à côté de la vie pour en offrir. À qui ?   
-<br>
-Une autre version :  
-Alors *fuck* les startupistes de la culture ! Quel est votre vrai but, hein ? Est-il de disparaître ? 
-
----
-
-### Le regard des autres
-Nous connaissons bien cette peur futile qui dit : "je crains le regard des autres".  
-Nous connaissons aussi cette peur moins futile qui dit : "je m'en fous du regard des autres".   
-<br>
-Cette première, nous le savons, est celle qui peuple l'espace et le temps.   
-Nous le savons parce que nous savons précisément ce qu'est le regard, nous en connaissons sa certitude.  
-
-> Faire de comédien, public. 
-
----
-
-### Singularité et silence
+### La plus grande recherche du comédien
 
 La plus grande recherche du comédien est celle de sa singularité.   
 Lui qui pourtant passe son temps à vivre autre chose que "sa vie".   
@@ -183,7 +223,24 @@ Que "toi" soit, mais pas "*parce que toi*".
 
 ---
 
-*Sur cet article de blog, les textes initialement écrits sur un cahier de l'auteur, sont quasiment à l'état brut, non organisés et non mis en forme. L'objectif est d'en produire une édition prochainement. Tous vos retours en ce sens seront plus que bienvenus : vous pouvez écrire à Habib ou Anne Lucie sur (diffusion@association-tedua.fr, 07 82 43 20 68) .  
+### L'artiste est l'idiot
+Car s'il veut suivre sa voie, il est obligé d'aller contre vents et marées, puisque son art ne peut exister que s'il transcende le reste.   
+Que l'art de l'artiste soit ce qu'il le dépasse lui-même. Car s'il se rend docile aux souverains, s'il se plie une seule fois, alors ce n'est plus de l'art qu'il fait mais un objet à vendre, à négocier...  
+Or la nature de tout art n'est que vent, n'est qu'un mouvement invisible.  
+<br>
+Ici l'artiste est bien l'idiot.   
+<br>
+Car seul celui qui sait pour qui l'art est fait et d'où l'art se produit, pourra accueillir la nourriture de la vie.Celle-là même qui ne peut pas être l'artiste.   
+Lui qui ne pourra jamais la donner à celui qui la veut, puisqu'il serait en train de passer à côté.   
+L'artiste est bien celui qui passe à côté de la vie pour en offrir. À qui ?   
+<br>
+Une autre version :  
+Alors *fuck* les startupistes de la culture ! Quel est votre vrai but, hein ? Est-il de disparaître ? 
+
+---
+---
+
+*Sur cet article de blog, les textes initialement écrits sur un cahier de l'auteur, sont quasiment à l'état brut, non organisés et non mis en forme. L'objectif est d'en produire une édition prochainement. Tous vos retours en ce sens sont si bienvenus : vous pouvez écrire à Habib ou Anne Lucie (diffusion@association-tedua.fr, 07 82 43 20 68) .  
 Merci.*
 
 
