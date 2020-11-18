@@ -7,13 +7,14 @@ title = "NEUF+1 : vers le rêve de Château | nov 2020 [Reportage]"
 weight = 977
 +++
 
-<br>
-<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/residence_mouce_nov2020.jpg" alt="le clown Mouce en sortie de résidence" width="200"> 
-<br>
+
 
 Le 3 novembre 2020, nous décidons de nous mettre à travailler tous les 9, sous forme d'une première résidence confinée à la Cité de la Digue à Floirac. Le dimanche suivant, un garage était transformé en théâtre et une première apparition scénique du clown Mouce avait lieu. C'était fou.  
 Sur le chemin de cette production commune, des incertitudes sont apparues, également...   
 <!--more-->
+
+<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/residence_mouce_nov2020.jpg" alt="le clown Mouce en sortie de résidence" width="200"> 
+<br>
 
 C'est justement entre cette joie partagée et ces peurs exprimées au grand jour que notre rêve commun s'étire : celui de rencontrer, d'acquérir et de prendre soin d'un lieu que l'on imagine magique, multiforme. À la fois lieu de discipline artistique avec un théâtre, ses spectacles, son école, à la fois lieu à habiter collectivement pour accueillir, créer, mourir, en paix.  
 C'est un projet de vie.  
@@ -43,17 +44,7 @@ On le souhaite ouvert au monde.
 *"[...] C'est à lui donc que nous avons demandé collectivement s'il voulait être notre patron, comme si enfin ici, s'employer était un souhait. [...]"*
 
 
-<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/lesneuf.jpg" alt="la collegiale de tedua et le chateau" width="300" align="left"> 
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/lesneuf.jpg" alt="les 9 de la Digue" width="300"> 
 <br>
 
 ---
@@ -72,15 +63,14 @@ Lorsqu'il fallut passer à l'expression, ceux qui ne voulurent pas parler s'éca
 **Mercredi, jeudi, vendredi:**  
 Loic et Bastien mènent l'aménagement des garages: celui de la maison 4 devient théâtre, celui de la maison 1 devient espace de stockage organisé
 
-<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/garage.gif" alt="le clown Mouce en sortie de résidence" width="300"> 
+<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/garage.gif" alt="le clown Mouce en sortie de résidence" width="450"> 
 <br>
 
 #### ---Le travail de proposition---
 **Samedi, dimanche:**  
 Magali et Lucie prennent le rôle de regard extérieur du jeu scénique de Bastien, qui incarne le clown Mouce de la Mythologie du Phare, que Jonathan est en train d'écrire..  
    
-`dessin de Mika`
-
+<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/mika_dessin_mouce.JPG" alt="dessin de Mickaël, ami clown" width="300"> 
 <br>
 
 #### ---La première apparition scénique---
@@ -92,7 +82,10 @@ Le clown Mouce monte sur scène devant le voisinage confiné de la Cité de la D
 
 >*"Une joie de se rappeler où commence le théâtre : dans n'importe quel espace où le jeu se partage. Ce garage est un théâtre puisque nous y sommes accueillis dans la pénombre, que les lumières éclairent ce clown, Mouce, et qu'il y bouge y vit et nous raconte comment il est **le broyeur de rêves**. L'ébauche d'une mise au travail collective et un lieu qui crée le lien par le jeu."* - Julie H., présente pendant le solo de Mouce.  
 
-`video Mouce`
+<br>
+<iframe src="https://player.vimeo.com/video/480805368" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
+<p><a href="https://vimeo.com/480805368">Apparition sc&eacute;nique #1 : &quot;Le broyeur de r&ecirc;ves&quot;  | nov 2020</a></p>
 
 
 <br>
@@ -103,11 +96,10 @@ Le clown Mouce monte sur scène devant le voisinage confiné de la Cité de la D
 
 *"Pendant que tout cela se produisait, il s'est avéré probable que le phare nomade de La Mythologie du Phare  et qu'un phare sédentarisé sur une île de l'estuaire de la Gironde puissent se rencontrer..."*
 
-<iframe src="https://archive.org/embed/residence_de_Mouce_3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p><iframe src="https://archive.org/embed/residence_de_Mouce_3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 <br>
-
+<br>
 <img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/pharedepatiras.jpeg" alt="le clown Mouce en sortie de résidence" width="300"> 
-<br>
 
 <br>
 
