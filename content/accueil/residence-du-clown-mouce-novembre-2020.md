@@ -37,14 +37,14 @@ On le souhaite ouvert au monde.
 
 *"Alors que le premier confinement nous a fait passer de cinq plus un à neuf plus un, ce deuxième nous offre le temps de produire ensemble, pour acter la reconnaissance du vivre ensemble comme sujet plus important que nos désirs (même celui du vivre ensemble...) ou chaque chose personnelle se renverse au collectif. Enfin, ici, l'autre se tournerait-il vers l'un ? [...]"*
 
-<iframe src="https://archive.org/embed/narration_residence_de_Mouce_novembre2020" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/narration_residence_de_Mouce_novembre2020"  width="510" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <br>
 <br>
 
 *"[...] C'est à lui donc que nous avons demandé collectivement s'il voulait être notre patron, comme si enfin ici, s'employer était un souhait. [...]"*
 
 
-<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/lesneuf.jpg" alt="les 9 de la Digue" width="300"> 
+<img src="/img/portfolio/residence-du-clown-mouce-novembre-2020/lesneuf.jpg" alt="les 9 de la Digue" width="330"> 
 <br>
 
 ---
@@ -55,7 +55,7 @@ On le souhaite ouvert au monde.
 *"[…] Deux jours plus tard un garage se transforma en théâtre (ou du moins les grandes lignes). Si vous aviez vu le dynamisme dans lequel cela s’est fait, même une grande école de théâtre nous jalouserait.
 Lorsqu'il fallut passer à l'expression, ceux qui ne voulurent pas parler s'écartèrent et ceux qui devaient parler restèrent. […]*
 
-<iframe src="https://archive.org/embed/residence_de_Mouce_temoignages" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/residence_de_Mouce_temoignages" width="510" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <br>
 <br>
 
@@ -83,7 +83,9 @@ Le clown Mouce monte sur scène devant le voisinage confiné de la Cité de la D
 >*"Une joie de se rappeler où commence le théâtre : dans n'importe quel espace où le jeu se partage. Ce garage est un théâtre puisque nous y sommes accueillis dans la pénombre, que les lumières éclairent ce clown, Mouce, et qu'il y bouge y vit et nous raconte comment il est **le broyeur de rêves**. L'ébauche d'une mise au travail collective et un lieu qui crée le lien par le jeu."* - Julie H., présente pendant le solo de Mouce.  
 
 <br>
-<iframe src="https://player.vimeo.com/video/480805368" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	<div id="centrer">
+<iframe src="https://player.vimeo.com/video/480805368" width="510" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	</div>
 <br>
 <p><a href="https://vimeo.com/480805368">Apparition sc&eacute;nique #1 : &quot;Le broyeur de r&ecirc;ves&quot;  | nov 2020</a></p>
 
