@@ -1,9 +1,9 @@
 +++
-image = "/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/residence_mouce_nov2020.jpg"
+image = "/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/12.jpg"
 showonlyimage = false
 draft = false
 date = "2020-11-17T08:20:57.917Z"
-title = "NEUF+2 : «des bijoux pour Franca Rame et Dario Fo» | déc 2020 [reportage]"
+title = "NEUF+2 : «des bijoux pour Franca Rame et Dario Fo» | déc 2020 [reportage #2]"
 weight = 975
 +++
 
@@ -11,12 +11,12 @@ weight = 975
 
 <audio controls>
   <source src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/cynthia_couture_collectif.mp3" type="audio/mpeg">
- Votre navigateur ne permet pas de lire cet audio...Pensez à changer de navigateur?
+ Votre navigateur ne permet pas de lire cet audio...Changez de navigateur peut-être?
 </audio> 
- <p><font size="2"><i>- dans cet enregistrement audio : Cynthia parle de son activité de couturière indépendant et de sa rencontre avec Jonathan, Anne Lucie, Habib et Bastien -</i></font></p>
+ <p><font size="2"><i>- dans cet enregistrement audio : Cynthia parle de son activité de couturière autonome et de sa rencontre avec Jonathan, Anne Lucie, Habib et Bastien -</i></font></p>
 
 <br><br>
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/01.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/01.jpg" alt=""> 
 
 Depuis l'apparition du [clown Mouce](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/), où la suprématie du Caprice est bien ce qui détruit tout ; qui n'est qu'un autre mot pour dire "désir".   
 Comme un appel puissant au grand ordre, que pourrait porter celui qu'on nomme *patron* ou *père* : *"qui est là pour me dire d'arrêter de faire de la merde ?!"*   
@@ -24,13 +24,13 @@ Comme un appel puissant au grand ordre, que pourrait porter celui qu'on nomme *p
 Et, mis en scène, par le clown, la simple pureté qu'est la rage de vivre. Mais quoi?  
 Tous les dimanches qui ont suivi ont été des temps de spectacle de petite forme (en improvisation totale, ou par un temps de travail court de quelques heures ou jours, avec un regard extérieur. Forcément.) Et chaque dimanche, sont venu.e.s des habitant.e.s de la Digue, et même un peu plus.
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/02.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/02.jpg" alt=""> 
 <br>
 
 En plus de faire vivre un semblant de programmation chaque dimanche, pendant ce joyeux confinement, chaque semaine, nous travaillons pour mener à bien [notre projet Château. Ou île...](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/)
 
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/03.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/03.jpg" alt="s"> 
 <br>
 
 
@@ -41,14 +41,14 @@ Là où l'entièreté du collectif se tourne vers l'un de nous pour l'avancement
  Votre navigateur ne permet pas de lire cet audio...Pensez à changer de navigateur?
 </audio> <br>
 
- <p><font size="2"><i>- dans cet enregistrement audio : Habib, Jonathan et Cynthia demandent à Loïc de nous donner la liste de tous ses besoins... -</i></font></p>
+ <p><font size="2"><i>- dans cet enregistrement audio : Habib, Jonathan et Cynthia demandent à Loïc d'exprimer tous ce qui lui parait nécessaire à son activité artisanale... -</i></font></p>
  
-Là où, de toute manière, tous les gestes de tout le monde servent autant leurs projections propres que le sujet à reconnaître : cela pourra-t-il se faire sans, un jour ?...
-Et tout cela se fait dans un temps donné, ici : une semaine (il nous en a fallut finalement deux...).  
+Là où, de toute manière, tous les gestes de tout le monde servent autant leurs projections propres que le sujet à reconnaître : cela pourra-t-il se faire sans, un jour ?...  
+Et tout cela se fait dans un temps donné, ici : 1 semaine (il nous en a fallut finalement 2...).  
 Pour quel sujet ?   
 <font size="6"><a href="https://icol-crea.net">ICÖL</a></font> .
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/04.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/04.jpg" alt=""> 
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 Nous avons vu monter sur cette scène de fortune [Bastien](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/), Farid, Lucie et Magali.
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/05.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/05.jpg" alt=""> 
 <br>
 
 **Le deuxième dimanche**, le 15 novembre, c'est Farid Lagoune qui appréhendait pour sa première fois l'espace scénique face à un public.   
@@ -75,7 +75,7 @@ D'amour, toujours.
 De l'espace théâtral comme un espace impossible.  
 De la raison des clowns sur terre : miroirs de la certitude de ce qui nous lie.   
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/06.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/06.jpg" alt=""> 
 
 ___
 ## 2. Le quatrième dimanche
@@ -83,7 +83,7 @@ ___
 Et celui-ci donc, le quatrième, le 29 novembre, c'est Julie qui joue, non pas pour du clown, mais bien du théâtre ; et pas n'importe lequel, celui qui passe par les mots enchevêtrés et échangés entre [Franca Rame](https://fr.wikipedia.org/wiki/Franca_Rame) et [Dario Fo](https://fr.wikipedia.org/wiki/Dario_Fo), auteurs italien.ne.s du XXème siècle, pour un de leurs monologues de leur célèbre **Récits de Femmes**.   
 C'est le choix de [Julie Hercberg](https://www.leclownetlafee.fr/pages/l-equipe/) que ce monologue. C'est face à moi qu'elle propose, et re-propose sur la semaine qui précède. Bastien se met à filmer, ou à photographier pour des instants comme ceux-là.
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/07.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/07.jpg" alt=""> 
 <br>
 
 
@@ -98,7 +98,7 @@ Quel sens pouvons-nous reconnaître collectivement sur la nature profonde de la 
 >"- *Comme celle de la plume ?!*" demanderait ICÖL, une fois posé sur les genoux de YEROELLE.
 
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/08.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/08.jpg" alt=""> 
 <br>
 
 
@@ -108,14 +108,14 @@ Comme étant ce qui nous donnera la fougue suffisante, à Julie comme à chacun 
 > "- *Je ne m'arrêterai pas de créer !*" 
 > (comme seul véritable cri pour revenir à la tranquillité)
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/09.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/09.jpg" alt=""> 
 <br>
 
 Nous formons un ensemble, ici, alors les cris s'entendent illico.   
 Et les oreilles se tournent.   
 Un spectacle démarre.   
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/10.jpg" alt="le clown Mouce en sortie de résidence"> 
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/10.jpg" alt="s"> 
 <br>
 
 
@@ -125,7 +125,7 @@ Un spectacle démarre.
 > -*Ou se reposer sur mes genoux.* (en sourit Yeroelle)  
 > -*Tant que tu sombres c'est que tu n'es pas mort. Par contre, si tu te poses sur ses genoux, c'est que tu en as fini avec la guerre.* (explose de joie le gardien du phare)"  
 > 
-> <img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/11.jpg" alt="le clown Mouce en sortie de résidence"> 
+> <img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/11.jpg" alt=""> 
 > 
 > - extrait de [la mythologie du phare flottant](https://www.zorozorai.land/#/8)
 
@@ -141,13 +141,13 @@ Comme d'un geste nous dépossédant de nous-mêmes. D'une crainte que l'expositi
 </audio> 
  <p><font size="2"><i>- dans cet enregistrement audio : Loïc s'exprime sur la difficulté à déléguer -</i></font></p>
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/12.jpg" alt="le clown Mouce en sortie de résidence">
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/12.jpg" alt="">
 <br>
 
 Photo du moment où *le loup-informaticien-bêtise-phalocrate se fait attaquer par la poupée de chiffon-qui-dit-des-gros-mots en rentrant dans son cul*.   
 Alors qu'il comptait s'essuyer avec ce qu'il croyait être une petite chose comme nous avait inculqué le patriarcat. N'ayant pas pris le temps de voir la [majestuosité](https://icol-crea.net/products/product-2/) de celle que l'idiot nommerait "*connasse*" :
 
-<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/13.jpg" alt="le clown Mouce en sortie de résidence">
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/13.jpg" alt="">
 <br>
 
 Il a été discerné, dans la pratique du jeu, que ce n'est que par l'accueil de l'autre dans sa franchise, qu'il est possible de reconnaître sa propre place et ainsi se libérer de ce qui pourrait nous freiner dans le jeu, même celui de mentir.   
@@ -156,7 +156,8 @@ Il a été discerné, dans la pratique du jeu, que ce n'est que par l'accueil de
 > Mais bien qui se maintient dans sa propre altérité sociale : de concevoir la place du public chez l'autre comme étant la même que chez soi-même.      
  
 
-![](https://i.imgur.com/wDxjBU0.jpg)
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/14.jpg" alt="">
+<br>
 
 Tous les membres de l'association qui partagent également leur lieu de vie à la Cité de la Digue à Floirac, ne sont pas tous désireux de faire économie de leur partique du jeu, car ils ont trouvé plus facile de le faire avec autre chose. Comme le travail d'Habib, qui, par notre souhait, a pris la place de "patron" pour l'avancement du projet collectif : [le projet château](https://blog.association-tedua.fr/accueil/concretisons-le-projet-chateau-6-decembre-2020/). Bien qu'il avance avec sérieux dans [la discipline du jeu](https://blog.association-tedua.fr/soumis-par-l-ecoute/).
 
@@ -169,48 +170,54 @@ Tous les membres de l'association qui partagent également leur lieu de vie à l
 Comme beaucoup d'entre nous, **Habib Belaribi** a traversé [les mondes](https://fr.calameo.com/read/0001834525ca6f6609a33), et son appétit de distinction sociale l'a conduit dans les pires affres de l'univers de l'économie, où résidait une croyance forte d'un système économique tout puissant capable d'écraser n'importe quoi.  
 Cette croyance fût une de ses grandes erreurs.  
 
-![](https://i.imgur.com/luvTy9j.jpg)
-
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/15.jpg" alt="">
+<br>
 
 Car une fois le burn out atteint, une fois la répulsion totale enfin accomplie face à la violence incessante de ces milieux numérisés de consultants-formateurs-commerciaux, une fois que son inconsciente servitude volontaire pour des patrons ne revêtant rien d'autres que dépression ou arrogance (comme si c'était les deux faces d'une même pièce) fut vomit.   
 Ce monde-là, enfin, pris fin.   
-<br>
+
+<iframe src="https://archive.org/embed/texte_patron_pere_neuf_plus_deux" width="400" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p><font size="2"><i>- texte écrit par Habib, dans la soirée qui a suivi la réunion de debrief de la résidence pour Loïc -* </i></font></p>
+
 Il continua son voyage. De [Shanghaï](https://www.flickr.com/photos/techyizu/albums/72157633392338643?fbclid=IwAR3jXB4H7LkoAmSu0y0oUh2RHHDSEF0GX5yvM3MK0Pcol-OKkbB_AHf7TBs), il alla à Paris où il participa aux prémices de [MakeSense](https://makesense.org) et devint co-entrepreneur associé de la [Social Media Squad](https://prezi.com/eyc0kuclnrem/coopereative/) *(lancez lecture sur le lien qui s'ouvre)*  notamment avec [Ambre Perez](https://www.linkedin.com/in/ambre-perez-6198b025/?originalSubdomain=fr) et [Romain Chanut](https://fr.m.wikipedia.org/wiki/Jerry_Do-It-Together) avec qui Habib est resté [ami](https://soundcloud.com/openizer). Puis il alla à Bilbao, où il rencontra [Las Indias Electrónicas](https://wiki.p2pfoundation.net/Las_Indias), lui offrant cette magnifique réalité : que le devoir à produire consiste justement à maintenir [la fraternité](https://www.guerrillatranslation.es/2014/02/13/el-futuro-ahora/) dans le mouvement de l'économie.
 
 Ce fût surtout lui, qui voulait "[vivre et travailler ensemble](https://hackmd.io/@jbsGOezXQZaK6t8ymdygqg/ry1EERrwI)", [comme Las Indias](https://wiki.p2pfoundation.net/Las_Indias) disait-il.   
 Nous autres, d'abord, on s'en moquait.   
 Comme ce truc qu'il avait avec les [sites internet](https://hackmd.io/@jbsGOezXQZaK6t8ymdygqg/SJbliH99P).   
 Aujourd'hui, je ne me moque plus.  
-Car seuls ceux qui connaissent l'impact du numérique sur le plateau de jeu de l'économie savent **à quel point pour jouer "en fraternité", il y a à se rencontrer pour se reconnaître amis autour de la table**. Et dans le numérique, il y en a plein, qui oeuvrent dans ce sens-là, on les appelle : [les libristes](https://https://artlibre.org/category/textes/?fbclid=IwAR2HAj_G87zrYZwO3xtKrFtBoFjuNxXSCNO2L1VNn5f-GVccXAnMK8PaYR0).
+Car seuls ceux qui connaissent l'impact du numérique sur le plateau de jeu de l'économie savent **à quel point pour jouer "en fraternité", il y a à se rencontrer pour se reconnaître amis autour de la table**. Et dans *le numérique*, il y en a plein, qui oeuvrent dans ce sens-là, on les appelle : [les libristes](https://https://artlibre.org/category/textes/?fbclid=IwAR2HAj_G87zrYZwO3xtKrFtBoFjuNxXSCNO2L1VNn5f-GVccXAnMK8PaYR0).
 
-![](https://i.imgur.com/vTx6Egd.jpg)
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/16.jpg" alt="">
+<br>
 
-Oui, un site internet, en une semaine, (en vrai deux...).
+Oui : un site internet, en une semaine, (en vrai deux semaines...) : <a href="https://icol-crea.net" target="_blank">icol-crea.net</a> .
 
 #### ... les employé.e.s
 
-**Loic** a produit 7 nouveaux bijoux de sa collection "ailes d'archanges".
+**Loïc** a produit 7 nouveaux bijoux de sa collection "ailes d'archanges".
 
-![](https://i.imgur.com/xHqvtJa.jpg)
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/17.jpg" alt="">
+<br> 
 
 **Cynthia** a conceptualisé les boîtes pour les bijoux et en a fabriquée une quinzaine. Elle a également créer le tampon du symbole d'ICÖL.
 
 ![](https://i.imgur.com/wjUmniQ.jpg)
 
 
+**Lucie**, **Bastien** et **Loïc** ont récolté 150 photos pour 30 photos retouchées et sélectionnées, 2h de vidéo pour 4 minutes de vidéo en cours de montage, et 4h30 de pistes audio pour 4min06 d'exploitées.
 
-**Lucie**, **Bastien** et **Loïc** ont récolté 150 photos pour 30 photos retouchées et sélectionnées, 2h de vidéo pour 4min de vidéo en cours de montage, et 4h30 de pistes audio pour 2min23 d'exploitées.
-
-![](https://i.imgur.com/tZPhrzX.jpg)
-
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/19.jpg" alt="">
+<br>
 
 Il reste **Magali** et **Anne Lucie**. Et cette dernière image devrait vous permettre de comprendre  la quantité de travail qu'elles ont dû fournir (une semaine pour Neuf+2 individus).
 
-![](https://i.imgur.com/HPvKSkC.jpg)
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/20.jpg" alt="">
+<br>
 
 Il y a en un encore. **Farid**, qui lui s'est occupé du plus tard, de l'après. De l'objectif.
 
-![](https://i.imgur.com/p2OV4o6.jpg)
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/21.jpg" alt="">
 
 ___
 
@@ -223,13 +230,15 @@ Puisque ce rêve ne souhaite que cela.
 Avons-nous vraiment besoin d'autre chose ?   
 Pour accueillir l'autre, oui.
 
-
->>>>>Photo du mur ile de Patiras
+<img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/22.jpg" alt="">
+<br>
 
 Comme une expression qui surgit :
 
 > "*Regarde, Papa!*
-> *Le royaume de ton enfant t'accueille avant ton trépas. Viens jouer et rire de ce futur où tu n'es pas. Plutôt que de te lamenter que tout ça, n'a jamais été pour toi. Regarde ! Ne vois-tu pas que tu es déjà là. ["Te dua"](https://association-tedua.fr)!*"
+> *Le royaume de ton enfant t'accueille avant ton trépas. Viens jouer et rire de ce futur où tu n'es pas. Plutôt que de te lamenter que tout ça, n'a jamais été pour toi. Regarde ! Ne vois-tu pas que tu es déjà là? ["Te dua"](https://association-tedua.fr)!*"
+
+---
 
 ## 5. Les suites à venir
 
@@ -239,12 +248,14 @@ Dans trois heures, c'est Mickaël qui passera devant le public. Nous pourrons fa
 [Nous savons que nous avons du travail...](https://blog.association-tedua.fr/accueil/concretisons-le-projet-chateau-6-decembre-2020/) peut-être dans un prochain article.
 <br>   
 <p><font size="4"> Mais là maintenant, c'est : spectacle !</font></p>
+...
+
+<br>
 
 ---
 
-*signé : Jonathan, article terminé le dimanche 6 décembre*
+*- Article bouclé le dimanche 6 décembre 2020. -*
 
----
 ---
 
 **Date de parution:** 9 décembre 2020.
@@ -252,11 +263,15 @@ Dans trois heures, c'est Mickaël qui passera devant le public. Nous pourrons fa
 **Écriture**:  
     - Jonathan Dupui  
 
-**Photos:**  
+**Photos et/ou retouches:**  
     - Loïc Arnaud   
 
+**Enregistrements audios et témoignages:**  
+    - Lucie Castet  
+    - Bastien Lasserre  
+    - Cynthia Perrein  
 
-**Mise en forme:**  
+**Mise en forme web:**  
     - Habib Belaribi  
 
 **Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 06 15 60 97 04).  
