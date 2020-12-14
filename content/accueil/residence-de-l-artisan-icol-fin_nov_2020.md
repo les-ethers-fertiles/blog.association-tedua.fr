@@ -37,7 +37,7 @@ En plus de faire vivre un semblant de programmation chaque dimanche, pendant ce 
 Là où l'entièreté du collectif se tourne vers l'un de nous pour l'avancement de son activité, comme étant aussi essentielle que n'importe quelle autre, même lorsque l'on pense à la nôtre.
 
 <audio controls>
-  <source src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/cynthia_couture_collectif.mp3" type="audio/mpeg">
+  <source src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/lister_besoins_loic.mp3" type="audio/mpeg">
  Votre navigateur ne permet pas de lire cet audio...Pensez à changer de navigateur?
 </audio> <br>
 
