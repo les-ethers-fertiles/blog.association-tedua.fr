@@ -11,16 +11,19 @@ weight = 975
 
 <audio controls>
   <source src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/cynthia_couture_collectif.mp3" type="audio/mpeg">
- Votre navigateur ne permet pas de lire cet audio...Changez de navigateur peut-être?
+ 
 </audio> 
  <p><font size="2"><i>- dans cet enregistrement audio : Cynthia parle de son activité de couturière autonome et de sa rencontre avec Jonathan, Anne Lucie, Habib et Bastien -</i></font></p>
 
-<br><br>
 <img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/01.jpg" alt=""> 
-
-Depuis l'apparition du [clown Mouce](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/), où la suprématie du Caprice est bien ce qui détruit tout ; qui n'est qu'un autre mot pour dire "désir".   
-Comme un appel puissant au grand ordre, que pourrait porter celui qu'on nomme *patron* ou *père* : *"qui est là pour me dire d'arrêter de faire de la merde ?!"*   
 <br>
+
+Depuis l'apparition du [clown Mouce](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/), où la suprématie du Caprice est bien ce qui détruit tout ; qui n'est qu'un autre mot pour dire "désir". Comme un appel puissant au grand ordre, que pourrait porter celui qu'on nomme *patron* ou *père* :   
+   
+*"Qui est là pour me dire d'arrêter de faire de la merde ?!"* ...   
+
+<!--more-->
+
 Et, mis en scène, par le clown, la simple pureté qu'est la rage de vivre. Mais quoi?  
 Tous les dimanches qui ont suivi ont été des temps de spectacle de petite forme (en improvisation totale, ou par un temps de travail court de quelques heures ou jours, avec un regard extérieur. Forcément.) Et chaque dimanche, sont venu.e.s des habitant.e.s de la Digue, et même un peu plus.
 
