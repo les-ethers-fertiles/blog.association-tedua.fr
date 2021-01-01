@@ -50,7 +50,7 @@ googleAnalytics = ""
   url = "/spectacles-saison-2019-2020"
 
   [[params.navlinks]]
-  name = "RECHERCHE, PÉDAGOGIE"
+  name = "RECHERCHE ARTISTIQUE"
   url = "/soumis-par-l-ecoute"
 
   [[params.navlinks]]
