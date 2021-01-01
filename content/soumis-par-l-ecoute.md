@@ -7,7 +7,9 @@ draft: false
 ---
 
 *La "discipline du jeu" est une approche du jeu de clown-théâtre développée par [Jonathan Dupui](http://localhost:35103/accueil/jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown/) au fur et à mesure de son parcours dans le monde du théâtre, du clown et du spectacle vivant en géneral.      
-La recherche qui l'accompagne, à propos de la nature profonde du public, s'est matérialisée ici sous la forme d'une série de 8 textes; destinés d'abord aux comédiens, mais aussi à tous ceux qui y percevront une parole touchante quelle que soit l'étendue de leur expérience du jeu sur scène.*
+<br>
+La recherche qui l'accompagne, à propos de la nature profonde du public, s'est matérialisée ici sous la forme d'une **série de 12 textes** intitulée «Soumis par l'écoute» ; destinée d'abord aux comédiens, mais aussi à tous ceux qui y percevront une parole touchante quelle que soit l'étendue de leur expérience du jeu sur scène.*
+- L'amplitude du jeu
 - Technique et écoute
 - Les trois corps du comédien
 - "L'action est morte"
@@ -22,15 +24,30 @@ La recherche qui l'accompagne, à propos de la nature profonde du public, s'est 
 
 ---
 
+### L'amplitude du jeu
+
+Les nuances ne peuvent que s’entretenir entre elles.   
+Une nuance isolée des autres est une bêtise absurde.   
+C’est dans l’interstice que leurs beautés s’accomplissent.   
+> Elles sont là pour l’harmonie   
+> entre un soleil couchant et une larme finissant sa course.  
+> Pas pour celui qui pleure.  
+> Ni pour celui qui s’éteint.  
+> Juste pour celui qui l’entend.   
+
+Voilà une proposition de posture face à l’amplitude du jeu alors.
+
+---
+
 ### Technique et écoute
  
 Cette acceptation que le comédien doit se soumettre à l'écoute. Il n'a aucunement le droit de s'y dérober.  
-Plus le comédien affirmera son écoute, plus son champ d'actions ou sa palette d'émotions s'élargiront dans la souplesse, dans le calme.
-<br>   
+> Plus le comédien affirmera son écoute, plus son champ d'actions ou sa palette d'émotions s'élargiront dans la souplesse, dans le calme.
+   
 Dans tous les trajets de vie de comédien, chaque déploiement de technique finit par : soit scléroser le comédien, soit être dépassé par autre chose.  
-Que vit le comédien quand il dépasse la technique ?  
-D'où vient la sclérose?   
-<br>
+> Que vit le comédien quand il dépasse la technique ?  
+> D'où vient la sclérose?   
+
 Il existe un juste équilibre entre l'application à l'expression, la réaction qui y répond, et le silence du public.   
 
 ---
@@ -59,8 +76,9 @@ L'expression livrée au récepteur :
 
 Placé en espace libre, le corps public du comédien est le reflet du résultat de son expression par l'acceptation de l'offrir, de la remettre à ce corps public. 
 
-Faire attention de ne pas faire attention à son image.   
-Pour cela, laissez-la au public.   
+> Faire attention de ne pas faire attention à son image.   
+> Pour cela, laissez-la au public.   
+
 Comment laisser son image à autrui ?  
 Reconnaître qu'il n'en a jamais été autrement.   
 Comment reconnaître cela ?   
@@ -80,9 +98,9 @@ Celui pour qui le jeu s'offre.
 
 Celui pour qui le jeu s'offre, a-t-il besoin de faire un effort ?  
 Savoir distinguer quand le jeu s'offre au public de quand on lui en impose un. Pour savoir le déterminer :
-1. mettez-vous en interne ...
-2. qu'est-ce qu'on vous impose? 
-3. n'y a-t-il toujours pas vous pour accepter de vous soumettre? 
+1. Mettez-vous en interne ...
+2. ... qu'est-ce qu'on vous impose? ...
+3. ... n'y a-t-il toujours pas que vous pour accepter de vous soumettre? 
 
 ---
 
@@ -99,7 +117,7 @@ La seule action est l'acceptation de :
 Les différents points de techniques seront *les balises invisibles*. Le travail de la technique sera comme le vent certain d'une chute libre. 
 Le travail technique ne pourra pas avoir de fin.   
 
-Être libre dans chaque champ d'expression : cela ne demande aucune technique.   
+> Être libre dans chaque champ d'expression : cela ne demande aucune technique.   
 
 L'esprit du comédien n'a pas à écouter la technique se déployant pendant le jeu. La technique doit se travailler sans soi.   
 "Être rendu" au travail de la technique est le seul moyen pour qu'il ne gêne pas le jeu du comédien. Qu'elle recouvre le quotidien : voilà un moyen de la travailler le plus efficacement : être en conscience qu'il y a voix et corps.   
@@ -208,7 +226,7 @@ La plus grande recherche du comédien est celle de sa singularité.
 Lui qui pourtant passe son temps à vivre autre chose que "sa vie".   
 Et pourtant, même pris au jeu, sa vie se vit. C'est bien pour cela que la plus grande recherche du comédien est de trouver sa singularité.   
 <br>
-Comment le comédien peut-il atteindre sa singularité dans cet amas de personnages, d'expressions jaillissantes de ces multiples personnages défiant temps et espace ?  
+Comment aucunele comédien peut-il atteindre sa singularité dans cet amas de personnages, d'expressions jaillissantes de ces multiples personnages défiant temps et espace ?  
 Comment le comédien peut-il se trouver lui-même ?   
 Pour être quoi ? Comédien ?   
 Observons alors la lutte et les fracas. Même les bénis par Dionysos suivants leur vie dans l'exemplarité de la réussite peuvent se faire submerger.  
@@ -243,5 +261,6 @@ Alors *fuck* les startupistes de la culture ! Quel est votre vrai but, hein ? Es
 *Sur cet article de blog, les textes initialement écrits sur un cahier de l'auteur, sont quasiment à l'état brut, non organisés et non mis en forme. L'objectif est d'en produire une édition prochainement. Tous vos retours en ce sens sont si bienvenus : vous pouvez écrire à Habib ou Anne Lucie (diffusion@association-tedua.fr, 07 82 43 20 68) .  
 Merci.*
 
+- MISE EN PRATIQUE : l'[école de la "discipline du jeu"](https://www.association-tedua.fr/)
 
 
