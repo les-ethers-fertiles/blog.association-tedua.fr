@@ -130,7 +130,7 @@ Un spectacle démarre.
 > 
 > <img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/11.jpg" alt=""> 
 > 
-> - extrait de [la mythologie du phare flottant](https://www.zorozorai.land/#/8)
+> - extrait de [la mythologie du phare flottant](https://www.zorozorai.land/#/le-paysage-de-la-mythologie-du-phare)
 
 #### La discipline du jeu : accueillir l'autre
 
@@ -183,9 +183,9 @@ Ce monde-là, enfin, pris fin.
 
 <p><font size="2"><i>- texte écrit par Habib, dans la soirée qui a suivi la réunion de debrief de la résidence pour Loïc -* </i></font></p>
 
-Il continua son voyage. De [Shanghaï](https://www.flickr.com/photos/techyizu/albums/72157633392338643?fbclid=IwAR3jXB4H7LkoAmSu0y0oUh2RHHDSEF0GX5yvM3MK0Pcol-OKkbB_AHf7TBs), il alla à Paris où il participa aux prémices de [MakeSense](https://makesense.org) et devint co-entrepreneur associé de la [Social Media Squad](https://prezi.com/eyc0kuclnrem/coopereative/) *(lancez lecture sur le lien qui s'ouvre)*  notamment avec [Ambre Perez](https://www.linkedin.com/in/ambre-perez-6198b025/?originalSubdomain=fr) et [Romain Chanut](https://fr.m.wikipedia.org/wiki/Jerry_Do-It-Together) avec qui Habib est resté [ami](https://soundcloud.com/openizer). Puis il alla à Bilbao, où il rencontra [Las Indias Electrónicas](https://wiki.p2pfoundation.net/Las_Indias), lui offrant cette magnifique réalité : que le devoir à produire consiste justement à maintenir [la fraternité](https://www.guerrillatranslation.es/2014/02/13/el-futuro-ahora/) dans le mouvement de l'économie.
+Il continua son voyage. De [Shanghaï](https://www.flickr.com/photos/techyizu/albums/72157633392338643?fbclid=IwAR3jXB4H7LkoAmSu0y0oUh2RHHDSEF0GX5yvM3MK0Pcol-OKkbB_AHf7TBs), il alla à Paris où il participa aux prémices de [MakeSense](https://makesense.org) et devint co-entrepreneur associé de la [Social Media Squad](https://prezi.com/eyc0kuclnrem/coopereative/) notamment avec [Ambre Perez](https://www.linkedin.com/in/ambre-perez-6198b025/?originalSubdomain=fr) et [Romain Chanut](https://fr.m.wikipedia.org/wiki/Jerry_Do-It-Together) avec qui Habib est resté [ami](https://soundcloud.com/openizer). Puis il alla à Bilbao, où il rencontra [Las Indias Electrónicas](https://wiki.p2pfoundation.net/Las_Indias), lui offrant cette magnifique réalité : que le devoir à produire consiste justement à maintenir [la fraternité](https://www.guerrillatranslation.es/2014/02/13/el-futuro-ahora/) dans le mouvement de l'économie.
 
-Ce fût surtout lui, qui voulait "[vivre et travailler ensemble](https://hackmd.io/@jbsGOezXQZaK6t8ymdygqg/ry1EERrwI)", [comme Las Indias](https://wiki.p2pfoundation.net/Las_Indias) disait-il.   
+Ce fût surtout lui, qui voulait "[vivre et travailler ensemble](https://hackmd.io/@jbsGOezXQZaK6t8ymdygqg/ry1EERrwI)", "[comme Las Indias Electrónicas](https://wiki.p2pfoundation.net/Las_Indias)" disait-il.   
 Nous autres, d'abord, on s'en moquait.   
 Comme ce truc qu'il avait avec les [sites internet](https://hackmd.io/@jbsGOezXQZaK6t8ymdygqg/SJbliH99P).   
 Aujourd'hui, je ne me moque plus.  
