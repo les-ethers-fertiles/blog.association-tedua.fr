@@ -11,9 +11,9 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 ### « Zoro Zoraï » 
 - **Réservations**: pour le 25 juillet, prochainement sur [lecerisier.org](http://lecerisier.org/) 
 - **Site web** : [www.zorozorai.land](https://www.zorozorai.land)
-- **Dates de représentation**: 2020: 24,25,26,27,28 fév /25 juil /8 août /12 sept  
+- **Dates de représentation**: 2020: 24,25,26,27,28 fév /25 juil /8 août /12 sept/ 21 déc  
 - **Public**: adultes, ados, enfants (3-12 ans), familles   
-- **Nombre de représentations**: 7  
+- **Nombre de représentations**: 8  
 - **Genre**: Pro | Clown, Improvisation, Intime, Social, Poésie   
 - **Comédien | Metteur en scène**: Jonathan Dupui | Alex Giraud    
 
@@ -37,9 +37,9 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 ### « Le Clown et la Fée » 
 - **Réservations**: sur [la billetterie en ligne HelloAsso](https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-fevrier-2020)
 - **Site web** : [www.leclownetlafee.fr](https://leclownetlafee.fr)   
-- **Dates de représentation**: 2019: 12,15,22 Nov | 2020: 12 Jan / 7-8 Fév / 20-21 Mar
+- **Dates de représentation**: 2020: 12 Jan / 7-8 Fév / 16-17-23-24 Oct | 2019: 12,15,22 Nov | 
 - **Public**: enfants (3-12 ans), familles   
-- **Nombre de représentations**: 23  
+- **Nombre de représentations**: 32  
 - **Genre**: Pro | Théâtre, Intime, Musical, Intéractif  
 - **Comédiens | Metteur en scène**: Alex Giraud (anciennement Thibaud Ghidone), Julie Hercberg | Jonathan Dupui.   
 
