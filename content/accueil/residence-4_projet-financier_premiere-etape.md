@@ -63,7 +63,7 @@ weight = 975
 
 ## Le 7ème : Magali De Bortoli
 <br>
-<img src="/img/portfolio/residence-4_projet-financier_premiere-etape/04.jpg" alt=""> 
+<a href="https://www.zorozorai.land/#/le-paysage-de-la-mythologie-du-phare" target=_blank> <img src="/img/portfolio/residence-4_projet-financier_premiere-etape/04.png" alt=""> </a>
 <br>
 
 *Le 9 février 2021, nous avons donc présenté une sortie de résidence d'Habib Belaribi, à l'image d'un startuper "à la chaîne",* <a href="https://chateau.association-tedua.fr" target=_blank> Business Angel du garage</a> *, -de quoi se donner de l'importance quand il y a à circuler dans les espaces de l'économie-, ou pour parler sérieusement, simplement, des raisons de pourquoi à travers ce projet, cela vaut le coup de croire en nous. Face à lui, des proches ayant déjà fait geste de soutien pour nous, en  accédant à leurs espaces, en nous offrant les raretés d'une costumerie ancestrale, en temps d'écoute et de réflexion, en recherche et achat d'un véhicule, en ouvrant les portes de leur espaces de vie partagée, et leurs techniques administratives, comptables, de coordination. Des "Papas", qu'on les appelle. Non pas pour qu'ils signent et qu'on les remercie, mais bien pour qu'ils nous disent où nous faisons fausse route dans ce projet et qu'on se remette au travail.*
@@ -196,17 +196,17 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
 
 <p><font size="2">-- Extrait 8 sur la Mythologie du Phare flottant : <i>"Puis, nous allons, comme toujours, encore et toujours, continuer..." --</i></font></p>
 
-<img src="/img/portfolio/residence-4_projet-financier_premiere-etape/010.jpg" alt=""> 
+<img src="/img/portfolio/residence-4_projet-financier_premiere-etape/10.jpg" alt=""> 
 <br>
 
 
-*" - Mais qu'est-ce que sont alors que les autres étoiles dans le ciel ?"
+> *" -- Mais qu'est-ce que sont alors que les autres étoiles dans le ciel ?<br>
+> -- Des phares flottants, Gégé. Des phares flottants. (lui répond Nadine, ravie de ne plus avoir à le battre pour aujourd'hui.)"*
+
+
+
+<img src="/img/portfolio/residence-4_projet-financier_premiere-etape/11.jpg" alt=""> 
 <br>
-" - Des phares flottants, Gégé. Des phares flottants. (lui répond Nadine, ravie de ne plus avoir à le battre pour aujourd'hui.)"*
-
-
-
-![](https://i.imgur.com/rPJO8yh.jpg)
 
 ---
 
