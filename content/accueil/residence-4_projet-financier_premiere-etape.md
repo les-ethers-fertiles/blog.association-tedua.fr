@@ -4,7 +4,7 @@ showonlyimage = false
 draft = false
 date = "2020-11-17T08:20:57.917Z"
 title = "DIX+1, rê-vers le Château : des dimanches à grande échelle ? | Fév 2021 [reportage #4]"
-weight = 975
+weight = 971
 +++
 
 <img src="/img/portfolio/residence-4_projet-financier_premiere-etape/01.jpg" alt=""> 
@@ -237,7 +237,7 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
 
 **Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 06 15 60 97 04).  
 
-**Hyperliens cités dans l'article:**  
+**Liens vers l'extérieur cités dans l'article:**  
 [site de la Compagnie des Tiers-Lieux](https://compagnie.tiers-lieux.org/).
 
 **Plus de liens à parcourir** :

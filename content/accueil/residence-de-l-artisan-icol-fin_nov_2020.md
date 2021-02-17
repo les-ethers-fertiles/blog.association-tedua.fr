@@ -68,7 +68,7 @@ Si son désir perdure, le projet de ce personnage, de ce clown peut-être, est d
 
 
 <iframe src="https://player.vimeo.com/video/484543882" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/484543882">Apparition sc&eacute;nique #2 : &quot;Fifoune&quot; | nov 2020</a> </a>.</p>
+<p><a href="https://vimeo.com/484543882" target=_blank>Apparition sc&eacute;nique #2 : &quot;Fifoune&quot; | nov 2020</a> </a>.</p>
 
 
 **Le troisème dimanche**, celui du 22 novembre. C'est Lucie Castet et Magali De Bortoli, qui, elles aussi, faisaient face à un public par la présence de leurs clownes. Pas encore nommées. Les deux faisant [L'oon](https://soin-4-mains.eu/).  
