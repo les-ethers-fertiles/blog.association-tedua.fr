@@ -210,7 +210,7 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
 
 ---
 
-*- Article bouclé le lundi 8 février 2020 -*
+*- Article bouclé le lundi 8 février 2021 -*
 
 ---
 
@@ -232,13 +232,13 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
      
 **Mise en forme web (et censure):**  
     - Magali De Bortoli  
-    - Habib Belaribi
-    - Nicolas Dehorter
+    - Habib Belaribi   
+    - Nicolas Dehorter  
 
 **Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 06 15 60 97 04).  
 
 **Liens vers l'extérieur cités dans l'article:**  
-[site de la Compagnie des Tiers-Lieux](https://compagnie.tiers-lieux.org/).
+- [site internet de la Compagnie des Tiers-Lieux](https://compagnie.tiers-lieux.org/).
 
 **Plus de liens à parcourir** :
 - [reportage de la résidence #1](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/)
