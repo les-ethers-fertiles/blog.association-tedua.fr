@@ -67,5 +67,10 @@ Depuis, de la musique sort de leurs baffles, mais moins souvent et moins fort. L
 
 **Date de parution:** le 17 février.
 
+**Écriture**:  
+   -- Jonathan Dupui  
+   -- Habib Belaribi  
 
+**Relecture et mise en forme**:  
+   -- Anne Lucie Dumay  
 
