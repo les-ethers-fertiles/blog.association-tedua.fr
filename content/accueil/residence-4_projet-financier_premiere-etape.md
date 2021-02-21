@@ -113,7 +113,7 @@ weight = 971
 
 <p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500759383" width="540" height="360" frameborder="0" allowfullscreen></iframe></p>
 
-*Nous avons donc établi différents documents indigestes, à la fois pour nous permettre de chiffrer le plus précisemment possible* <a href="https://lite.framacalc.org/9l7t-chateau-phare" target=_blank>le coût d'acquisition d'un château</a> *, avec tout le matériel pour mener à bien les activités que nous entreprenons. Et pour répertorier toutes nos recherches sur* <a href="https://hackmd.io/@jbsGOezXQZaK6t8ymdygqg/B137TO5sD" target=_blank>*les éléments d'investissements</a>, lorsque nous devrons démontrer la raison du plan de financement.*
+*Nous avons donc établi différents documents indigestes, à la fois pour nous permettre de chiffrer le plus précisemment possible les éléments d'investissements (1), lorsque nous devrons démontrer la raison du plan de financement.*
 
 <br>
 <audio controls>
@@ -210,7 +210,11 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
 
 ---
 
-*- Article bouclé le lundi 8 février 2021 -*
+*- Article bouclé le lundi 8 février 2021 -*   
+
+--- 
+
+<p><font size="2"><i>(1) paragraphe "Le 9ème : Loïc Arnaud" : concernant le plan de finanement évoqué, il est possible de collaborer sur nos documents de travail en cours en contactant Anne Lucie Dumay (diffusion@association-tedua.fr , 06 15 60 97 04).</i></font></p>
 
 ---
 
@@ -238,12 +242,13 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
 **Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 06 15 60 97 04).  
 
 **Liens vers l'extérieur cités dans l'article:**  
-- [site internet de la Compagnie des Tiers-Lieux](https://compagnie.tiers-lieux.org/).
+-- [site internet de la Compagnie des Tiers-Lieux](https://compagnie.tiers-lieux.org/).
 
-**Plus de liens à parcourir** :
-- [reportage de la résidence #1](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/)
-- [reportage de la résidence #3](https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/)
-- [site web de l'association Tedua](https://association-tedua.fr)
-- [spectacle "Le Clown et la Fée"](https://leclownetlafee.fr)
-- [chaîne des montages vidéos de Tedua](https://vimeo.com/search?q=association%20tedua)
+
+**Plus de liens à parcourir** :  
+-- [reportage de la résidence #1](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/)  
+-- [reportage de la résidence #3](https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/)  
+-- [site web de l'association Tedua](https://association-tedua.fr)  
+-- [spectacle "Le Clown et la Fée"](https://leclownetlafee.fr)  
+-- [chaîne des montages vidéos de Tedua](https://vimeo.com/search?q=association%20tedua)  
 
