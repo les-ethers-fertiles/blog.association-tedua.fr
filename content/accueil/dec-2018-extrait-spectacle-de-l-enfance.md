@@ -17,4 +17,5 @@ Car dans le jeu de donner à l’enfant, dans son point zéro, le langage pour p
 
 En voici un extrait ici offert:
 
-![Extrait  De l'Enfance](/img/extraitdelenfance.jpg)
+<left> <img src="/img/portfolio/de-l-enfance/1DELENFANCE-intro.jpg" alt="jonathan dupui" height="300" width="750"> </left>
+
