@@ -11,11 +11,13 @@ En plus d'une école de pratique du jeu de clown et de théâtre, l'association 
 ### « Zoro Zoraï » 
 - **Réservations**: pour le 25 juillet, prochainement sur [lecerisier.org](http://lecerisier.org/) 
 - **Site web** : [www.zorozorai.land](https://www.zorozorai.land)
-- **Dates de représentation**: 2020: 24,25,26,27,28 fév /25 juil /8 août /12 sept/ 21 déc  
+- **Dates de représentation**: 
+	- 2020: 24,25,26,27,28 fév /25 juil /8 août /12 sept/ 21 déc
+	- 2021: 7 fév / 7 mars
 - **Public**: adultes, ados, enfants (3-12 ans), familles   
-- **Nombre de représentations**: 8  
+- **Nombre de représentations**: 11  
 - **Genre**: Pro | Clown, Improvisation, Intime, Social, Poésie   
-- **Comédien | Metteur en scène**: Jonathan Dupui | Alex Giraud    
+- **Comédien | Metteurs en scènes**: Jonathan Dupui | Alex Giraud, Julie Hercberg 
 
 <iframe src="https://player.vimeo.com/video/425954541" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>

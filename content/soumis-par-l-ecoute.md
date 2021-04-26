@@ -24,6 +24,12 @@ La recherche qui l'accompagne, à propos de la nature profonde du public, s'est 
 
 ---
 
+### L'objectif 
+
+Rendre au public la beauté de sa place.
+
+---
+
 ### L'amplitude du jeu
 
 Les nuances ne peuvent que s’entretenir entre elles.   
@@ -103,6 +109,10 @@ Savoir distinguer quand le jeu s'offre au public de quand on lui en impose un. P
 3. ... n'y a-t-il toujours pas que vous pour accepter de vous soumettre? 
 
 ---
+### Générosité
+Il y a moyen de changer la couleur d'une plainte en un éclat de gratitude. Encore faut-il qu'il y ait des oreilles.
+
+---
 
 ### "L'action est morte"
 D'abord il y a **la mise à nu**.   
@@ -133,15 +143,13 @@ Elle est à développer:
 
 Car toutes les tentatives de jouer le calme seront accompagnées d'agitation. Et la forme offerte ne sera pas "le calme" mais **"la recherche du calme"**.   
 S'exercer au calme permet de saisir le démarrage de toutes les agitations. Toutes les agitations appartiennent déjà au jeu. Cette réalité offre l'ouverture totale de la palette du jeu. Et toutes les résolutions de toutes les agitations retournent au calme.  
+C'est comme s'il fallait au comédien un espace suffisemment impressionnant de stabilité pour qu'il puisse s'offrir à autant d'aléas mais c'est à lui de s'interdire toute négociation. Qu'il soit d'accord qu'il joue carte sur table.
 
 ---
 
 ### Le regard des autres
-Nous connaissons bien cette peur futile qui dit : "je crains le regard des autres".  
-Nous connaissons aussi cette peur moins futile qui dit : "je m'en fous du regard des autres".   
-<br>
-Cette première, nous le savons, est celle qui peuple l'espace et le temps.   
-Nous le savons parce que nous savons précisément ce qu'est le regard, nous en connaissons sa certitude.  
+Attention aux effets de langage !
+Plus précisément, attention au désir d'effet de langage. Celui qui pense que ça lui donnera un style se trompe : le personnage dans l'histoire, le comédien dans le jeu. Attention à ce que vous cachez derrière vos désirs, car s'il n'y a que l'articulation de comment vous devez être vu important, vous louperez l'évidence : vous ne servez à rien ! Ne l'oubliez pas je vous prie.   
 
 > Faire de comédien, public. 
 
@@ -150,10 +158,11 @@ Nous le savons parce que nous savons précisément ce qu'est le regard, nous en 
 ### "Le sens de ce geste"
 
 > Le sens de ce geste est de toujours ouvrir l'accueil vers l'autre.  
-
-Un espace pour se réimplanter dans le monde.  
+  
 De reconnaître notre souhait de paix et de partage, et de nous éloigner de la peur.  
-De monter sur scène et d'être d'accord avec la réalité de notre exposition : on ne peut y échapper.  
+De monter sur scène et d'être d'accord avec la réalité de notre exposition : on ne peut y échapper.
+Comme un espace pour se réimplanter dans le monde.  
+Il sera toujours juste de se rappeler à la sincérité innocente de nos sens pour permettre à la vigilance de garder en attention ce qui serait trompeur. Si vous ne comprenez pas ce que je dis, cueillez une rose d'une main innocente et n'allez pas me faire croire que ce n'est pas jouable.
 
 ---
 
@@ -254,6 +263,30 @@ L'artiste est bien celui qui passe à côté de la vie pour en offrir. À qui ?
 <br>
 Une autre version :  
 Alors *fuck* les startupistes de la culture ! Quel est votre vrai but, hein ? Est-il de disparaître ? 
+
+---
+
+### Celui qui n'a rien à dire
+
+Comment est-il possible que celui qui n'a rien à dire soit celui qui est sur scène. 
+Je n'ai rien à vous dire.
+Car je n'ai rien à porter.
+J'ai déjà porté tous les sujets.
+Et j'ai toujours vu, toujours su lorsque j'en portais.
+
+Comment pouvez-vous supporter que celui qui n'a rien à dire soit alors celui qui vous parle ?
+Pourquoi ne pouvez-vous pas le supporter ?
+Pourquoi ne pouvez-vous pas justement accepter de le laisser parler sans dire ?
+Ces mots-ci ne sont-ils pas déjà suffisamment distrayants ?
+N'êtes-vous pas déjà en accord avec le fait instantané que vous n'écoutez que lorsque rien ne parle, que lorsque rien ne tente d'assombrir la clarté avec laquelle vous recevez ce que je vous dis, par exemple ?
+Que vous dis-je ?...
+Je vous avais prévenus, je n'ai rien à vous dire car j'ai reconnu votre exactitude. 
+Je connais la puissance de votre discernement. 
+Et c'est sachant cela que j'ai pu reconnaître tous ces costumes, tous ces titres, toutes ces formes, comme autant de tentatives que vous me gobiez de force.
+Mais vous avez toujours été trop libres pour mes désirs. Et c'est en cela que je vous remercie.
+Je vous remercie d'avoir laissé un espace si clair même à celui qui n'a rien à dire.
+Merci. 
+Bisou.
 
 ---
 ---
