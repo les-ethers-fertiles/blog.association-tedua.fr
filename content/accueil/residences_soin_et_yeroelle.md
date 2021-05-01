@@ -356,11 +356,11 @@ N'y aurait-il pas que les larmes pour le calme. Que se passerait-il dans le mond
 
 <br>
 
-*Avez-vous découvert ce qu'il va nous arriver dans moins d'une semaine ? il est même possible que ce soit ce soir ou demain. Le nouveau venu va naître depuis l'intérieur du ventre de sa mère.  
+Avez-vous découvert ce qu'il va nous arriver dans moins d'une semaine ? il est même possible que ce soit ce soir ou demain. Le nouveau venu va naître depuis l'intérieur du ventre de sa mère.  
 Est-ce que celui-ci aura à faire véritablement patte blanche avant d'hurler sa souffrance ? Nos oreilles l'entendront, point. Sans même que quelqu'un lui dise quoi faire ou comment.  
 Acceptons. Acceptons qu'il y a bien l'innocence, même au travers des âges et des postures. C'est ce qu'un public raconte, non ? Observons que cette confiance a toujours nourri l'oeuvre individuelle comme collective. Arrêtons alors l'imagination si elle se prend au sérieux, s'il vous plaît !   
 Est-ce notre imaginaire qui fait naître les bébés ?   
-Et qui fait jouer les comédiens, est-ce également notre imaginaire ?*
+Et qui fait jouer les comédiens, est-ce également notre imaginaire ?
 
 <br>
 
@@ -368,10 +368,10 @@ Et qui fait jouer les comédiens, est-ce également notre imaginaire ?*
 
 <br>
 
-*Alors nous allons, comme toujours, encore, comme déjà tant de "encore!?", toujours, continuer. À quoi cela pourrait-il bien servir de faire autre chose? Nous avons suffisament de tranquilité et de joie ici. Et nous arrivons à remplir nos journées de choses à produire qui, en plus, ne sont nourries que par le désir d'offrir cette tranquilité infinie. De souffler. Une bonne fois pour toutes...  
-Nous avons bien une piste pour le château, mais nous attendons des réponses pour poursuivre. Peut être qu'un autre article en reparlera. Et d'ici là : est-il nécessaire de vous dire que vous êtes les bienvenu.e.s ? Pas autant qu'Isaac, mais presque.*
+Alors nous allons, comme toujours, encore, comme déjà tant de "encore!?", toujours, continuer. À quoi cela pourrait-il bien servir de faire autre chose? Nous avons suffisament de tranquilité et de joie ici. Et nous arrivons à remplir nos journées de choses à produire qui, en plus, ne sont nourries que par le désir d'offrir cette tranquilité infinie. De souffler. Une bonne fois pour toutes...  
+Nous avons bien une piste pour le château, mais nous attendons des réponses pour poursuivre. Peut être qu'un autre article en reparlera. Et d'ici là : est-il nécessaire de vous dire que vous êtes les bienvenu.e.s ? Pas autant qu'Isaac, mais presque.
 
-*Et pendant ce temps, comme ce qu'on sait déjà de lui, Farid s'occupe du plus tard, de l'après.*
+Et pendant ce temps, comme ce qu'on sait déjà de lui, Farid s'occupe du plus tard, de l'après.
 <br>
 
 <img src="/img/portfolio/residences_soin_et_yeroelle/19-s.jpg" alt=""> 
@@ -384,41 +384,41 @@ Et qu'Isaac n'est pas encore né (bon, là, en réalité, il vient de naître, o
 
 ***
 
--article bouclé le vendredi 30 avril 2021-
+*---article bouclé le vendredi 30 avril 2021---*
 
 ***
 
 **Date de parution:** le 1er mai 2021.
 
-**Écriture:** 
-- Jonathan Dupui
-- Cynthia Perrein
+**Écriture:**   
+	- Jonathan Dupui  
+	- Cynthia Perrein  
 
-**Captation et montage Vidéo:**
-- Bastien Lasserre
-- Magali De Bortoli
+**Captation et montage Vidéo:**  
+	- Bastien Lasserre  
+	- Magali De Bortoli  
 
-**Photos et/ou retouches:**
-- Loïc Arnaud
+**Photos et/ou retouches:**  
+	- Loïc Arnaud  
 
-**Enregistrements audio:**
-- Bastien Lasserre
-- Habib Belaribi
+**Enregistrements audio:**  
+	- Bastien Lasserre  
+	- Habib Belaribi  
 
-**Mise en forme web:**
-- Jonathan Dupui
-- Habib Belaribi
+**Mise en forme web:**  
+	- Jonathan Dupui  
+	- Habib Belaribi  
 
-**Acting**:
-- Bastien Lasserre
-- Anne Lucie Dumay, Habib Belaribi
-- Magali De Bortoli
-- Gweltaz Lavanan
-- Princesse Daphnée Paillettes
+**Acting**:  
+	- Bastien Lasserre  
+	- Anne Lucie Dumay, Habib Belaribi  
+	- Magali De Bortoli  
+	- Gweltaz Lavanan  
+	- Princesse Daphnée Paillettes  
 
 **Contact:** Anne Lucie Dumay (mais pas trop dispo actuellement), Magali De Bortoli (diffusion@association-tedua.fr, 06 52 17 82 20).
 
-**Liens vers l'extérieur cités dans l'article:**
-- https://solidarites-sante.gouv.fr/
-- http://carnetdefaits.net/
-- https://www.iut.u-bordeaux.fr/cohabit/
+**Liens vers l'extérieur cités dans l'article:**  
+	- https://solidarites-sante.gouv.fr/  
+	- http://carnetdefaits.net/  
+	- https://www.iut.u-bordeaux.fr/cohabit/  
