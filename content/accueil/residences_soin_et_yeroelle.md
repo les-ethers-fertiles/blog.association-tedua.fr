@@ -26,21 +26,21 @@ weight = 969
 
 
 <p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/513954590" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/513954590?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Temps Ch&amp;acirc;teau #1 : Discussion apr&amp;egrave;s la pr&amp;eacute;sentation du Projet Ch&amp;acirc;teau"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 **Mais cette fois-ci, il y a trop de contraintes. Comment pouvons-nous produire un même fil avec tant d'événements, tant de personnes, tant de fatigues, tant de consignes, tant de désirs, divergeants ? Nous en avons marre. Nous fatiguons et fatiguons les autres. Nous nous écroulons sur nous-mêmes.**
 
 
 <p align="center"><p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/525600569" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/525600569?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Temps Ch&amp;acirc;teau #1 : Discussion apr&amp;egrave;s la pr&amp;eacute;sentation du Projet Ch&amp;acirc;teau"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 **Le mardi 9 mars, l'événement arrive: quelqu'un "abandonne le projet château". Nous arrêtons alors la résidence avant sa date de restitution. Le trop plein ne pouvant se remplir plus, tout le monde se mit à se taire surtout quand il aurait fallu qu'il parle. En accompagnant, dans son espace intime, celui qui est quelque part sur le départ.**
 
 
 <p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/526174097" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/526174097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Temps Ch&amp;acirc;teau #1 : Discussion apr&amp;egrave;s la pr&amp;eacute;sentation du Projet Ch&amp;acirc;teau"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **Mais nous continuons quand même cette résidence, chacun portant le poids de ses actions propres. Les dîners se font, le costume du personnage du haut du phare se construit, son nez se fabrique, son décor se monte, le refroidisseur à machine à fumée se termine, les livrets de soin se remplissent, cet article s'écrit, des liens se tissent...**
 
@@ -50,8 +50,7 @@ weight = 969
 **Ou bien avons-nous besoin de justifier nos manques d'action par le vice de se plaindre d'un patron ? Ou de crier sur ceux qui ne se préoccupent pas de nos préoccupations ? Que voulons-nous, bon sang de bon soir ?! Pendant ce temps, le poids de ce qui ne veut pas se résoudre agit... Où pouvons-nous bien aller tous ensemble ?**
 
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/526251999" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/526251999?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Temps Ch&amp;acirc;teau #1 : Discussion apr&amp;egrave;s la pr&amp;eacute;sentation du Projet Ch&amp;acirc;teau"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **Cet article sera le renvoi après le trop plein. Un article dévidoir pour aller jusqu'au bout du nettoyage. Au bout de cette résidence. Au bout de <a href="https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/" target=_blank>ce temps de Patron d'Habib Belaribi </a>. Et revivre, le temps nécessaire, l'innocence comme le profond retour à la confiance.**
 
@@ -91,7 +90,8 @@ weight = 969
 <br>
 <br>
 
-<p align="left"><iframe src="https://archive.org/embed/paresse3_avec-reduction-de-bruit" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></p>
+<p align="left"><iframe src="https://archive.org/embed/paresse3_avec-reduction-de-bruit" width="100%" height="auto" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></p>
+
 
 ###### *Extrait de la Mythologie du Phare flottant - LA PARESSE DE ZÉOL - "Qu'est-ce que toi, Paresse, peux bien me raconter sur le monde ?[...]"*
 
@@ -236,7 +236,7 @@ Et que font les étoiles lorsque la lune tourne son attention vers la peine ? El
 
 
 
-<p align="left"><iframe src="https://archive.org/embed/audio_4_avril_retouche" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></p>
+<p align="left"><iframe src="https://archive.org/embed/audio_4_avril_retouche" width="100%" height="auto" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></p>
 
 ###### *Extrait de "Yéroelle et le Boudeur" : monologue porté par Anne Lucie lors de la restitution de résidence, le 4 avril 2021.*
 
@@ -254,7 +254,7 @@ Et que font les étoiles lorsque la lune tourne son attention vers la peine ? El
 <br>
 
 "Après avoir beaucoup parlé de la lune, après s'être projeté sur mille idées, nous nous sommes mis d'accord.
-Travailler avec <a href="https://www.iut.u-bordeaux.fr/cohabit/" target=_blank>le FabLab Coh@bit </a> est une idée qui nous plaisait car non seulement Pierre Grangé Praderas, qui co-anime ce lieu, est un ami, mais en plus le champ des possibles que nous offre un endroit comme celui-ci nous permet les possibles. Une demi-lune en trois dimensions fut créée à l'aide de leur découpeuse laser et d'une de leurs imprimantes 3D. Loïc a ensuite assemblé minutieusement chaque pièce et j'ai conçu un revêtement en tissu. Et ensuite, <a href="https://projets.cohabit.fr/redmine/projects/projets-du-fablab/wiki/Lune_sceno_Tedua" target=_blank>on a tout documenté sur leur Wiki </a> bien sûr.
+Travailler avec <a href="https://www.iut.u-bordeaux.fr/cohabit/" target=_blank>le FabLab Coh@bit </a> est une idée qui nous plaisait car non seulement Pierre Grangé Praderas, qui co-anime ce lieu, est un ami, mais en plus le champ des possibles que nous offre un endroit comme celui-ci nous permet ces possibles. Une demi-lune en trois dimensions fut créée à l'aide de leur découpeuse laser et d'une de leurs imprimantes 3D. Loïc a ensuite assemblé minutieusement chaque pièce et j'ai conçu un revêtement en tissu. Et ensuite, <a href="https://projets.cohabit.fr/redmine/projects/projets-du-fablab/wiki/Lune_sceno_Tedua" target=_blank>on a tout documenté sur leur Wiki </a> bien sûr.
 J'ai aussi construit le trône lunaire de Yéroelle, dans le même tissu que la lune, recouvrant un siège et venant recouvrir par endroits le costume, la scellant ainsi au reste du décor. Sous le siège, un passage, une porte vers un autre univers, ce serait le laboratoire du magicien Zor, paraît-il. Pour cette fois, c'est 'son' livret de soin que le Boudeur a trouvé dans cette grotte."
 
 ##### b) La scénographie
