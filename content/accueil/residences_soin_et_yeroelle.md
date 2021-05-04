@@ -17,7 +17,7 @@ weight = 969
 <br>
 <br>
 
-### LE SOIN, L'ARTISANAT ET L'ART, OU LE RENVOI APRÈS LE TROP PLEIN
+### LE SOIN, L'ARTISANAT ET L'ART, OU LE RENVOI APRÈS LE TROP PLEIN.
 
 <br>
 
@@ -25,21 +25,21 @@ weight = 969
 
 
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/513954590" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/513954590" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 
 
 **Mais cette fois-ci, il y a trop de contraintes. Comment pouvons-nous produire un même fil avec tant d'événements, tant de personnes, tant de fatigues, tant de consignes, tant de désirs, divergeants ? Nous en avons marre. Nous fatiguons et fatiguons les autres. Nous nous écroulons sur nous-mêmes.**
 
 
-<p align="center"><p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/525600569" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/525600569" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 
 
 **Le mardi 9 mars, l'événement arrive: quelqu'un "abandonne le projet château". Nous arrêtons alors la résidence avant sa date de restitution. Le trop plein ne pouvant se remplir plus, tout le monde se mit à se taire surtout quand il aurait fallu qu'il parle. En accompagnant, dans son espace intime, celui qui est quelque part sur le départ.**
 
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/526174097" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/526174097" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 
 **Mais nous continuons quand même cette résidence, chacun portant le poids de ses actions propres. Les dîners se font, le costume du personnage du haut du phare se construit, son nez se fabrique, son décor se monte, le refroidisseur à machine à fumée se termine, les livrets de soin se remplissent, cet article s'écrit, des liens se tissent...**
@@ -50,7 +50,7 @@ weight = 969
 **Ou bien avons-nous besoin de justifier nos manques d'action par le vice de se plaindre d'un patron ? Ou de crier sur ceux qui ne se préoccupent pas de nos préoccupations ? Que voulons-nous, bon sang de bon soir ?! Pendant ce temps, le poids de ce qui ne veut pas se résoudre agit... Où pouvons-nous bien aller tous ensemble ?**
 
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/526251999" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/526251999" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 
 **Cet article sera le renvoi après le trop plein. Un article dévidoir pour aller jusqu'au bout du nettoyage. Au bout de cette résidence. Au bout de <a href="https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/" target=_blank>ce temps de Patron d'Habib Belaribi </a>. Et revivre, le temps nécessaire, l'innocence comme le profond retour à la confiance.**
@@ -379,7 +379,7 @@ Et pendant ce temps, comme ce qu'on sait déjà de lui, Farid s'occupe du plus t
 <br>
 
 *NB : Pourquoi avons-nous donc mis en titre 'ONZE+1' alors qu'on sait que, dans les anciens articles, nous étions déjà arrivés jusqu'à 10 avec Aliam ? ...   
-Et qu'Isaac n'est pas encore né (bon, là, en réalité, il vient de naître, on est donc à 12...), ça y est on le sait aussi, il est le +1. Pourquoi donc sommes-nous 11 ? <a href="https://www.instagram.com/micka_duprat/?igshid=1ijxo9cae2bme&fbclid=IwAR0XmTLxyGRj3DAr0SC6ccQN6OxkN5qb7a-hlN2Q9mhgLHGeCfVKIlAOl6g" target=_blank>Parce que... </a>[]()*
+Et qu'Isaac n'est pas encore né (bon, là, en réalité, il vient de naître, on est donc à 12...), ça y est on le sait aussi, il est le +1. Pourquoi donc sommes-nous 11 ? <a href="https://www.instagram.com/micka_duprat/?igshid=1ijxo9cae2bme&fbclid=IwAR0XmTLxyGRj3DAr0SC6ccQN6OxkN5qb7a-hlN2Q9mhgLHGeCfVKIlAOl6g" target=_blank>Parce que... </a>*
 
 
 ***
