@@ -15,7 +15,7 @@ weight = 971
 
 *Dans* <a href="https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/">l'article précédent</a>, *nous avions passé le quatrième dimanche...* 
 
-<p align="center"><iframe width="540" height="360" src="https://tube.aquilenet.fr/videos/embed/230768c8-790b-4983-a50c-4da1e048aced?fbclid=IwAR2FO6ADGFES1Dnx_U-0WP7jG9QYm4o_kv0fN1EcMtHMgwlt4yyMtMVUNhI" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe width="100%" height="100%" src="https://tube.aquilenet.fr/videos/embed/230768c8-790b-4983-a50c-4da1e048aced?fbclid=IwAR2FO6ADGFES1Dnx_U-0WP7jG9QYm4o_kv0fN1EcMtHMgwlt4yyMtMVUNhI" frameborder="0" allowfullscreen></iframe></p>
 
 *...et nous précisions que la quantité de travail de retranscription était lourde. Que nous n'avions pas pu finir à temps. Mais nous avons, comme toujours, continué.* 
 
@@ -23,7 +23,7 @@ weight = 971
 
 ## Le 5ème : Bastien Lasserre
 
-<p align="center"><iframe src="https://player.vimeo.com/video/500782475" width="540" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe src="https://player.vimeo.com/video/500782475" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
 
 *Encore une fois, le 14 janvier 2021, nous nous sommes lancés dans une nouvelle résidence. Le principe majeur d'une résidence est la création d'un propos, d'un objet, ou d'un mouvement pour en faire une restitution face à des regards extérieurs. Permettant d'articuler des critiques pour l'amélioration de cet objet d'expression.*
 <br><br>
@@ -42,7 +42,7 @@ weight = 971
 ---
 
 ## Le 6ème : Farid Lagoune
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500773904" width="540" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500773904" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 
 
@@ -86,7 +86,7 @@ weight = 971
 
 ## Le 8ème : Lucie Castet
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500778609" width="540" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500778609" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 *Avant de se lancer dans le chiffrage à tout va, il nous a fallu discuter ensemble de tout ce qu'on souhaitait dans ce Château, dans quel but nous faisions ça, des contraintes que cela nous causeraient, de quelle structure administrative nous dépendrions, de comment faire pour ne pas forcer les gens avec qui nous parlons de ce projet, d'avec quel esprit nous souhaitons faire vivre ce* <a href="https://compagnie.tiers-lieux.org/" target=_blank>tiers-lieu</a> *, et d'à qui nous désirons ouvrir les portes. Des journées de conversation pour trouver un élan commun. Puis nous nous mîmes au travail.*
 
@@ -111,7 +111,7 @@ weight = 971
 
 ## Le 9ème : Loïc Arnaud
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500759383" width="540" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500759383" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 *Nous avons donc établi différents documents indigestes, à la fois pour nous permettre de chiffrer le plus précisemment possible les éléments d'investissements (1), lorsque nous devrons démontrer la raison du plan de financement.*
 
@@ -133,7 +133,7 @@ weight = 971
 
 ## Le 10ème : Aliam Perrein Dupui
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500770940" width="540" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/500770940" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 *Nous avons alors créé "le morceau de sucre qui aide la médecine à couler" comme le dit Mary Poppins. Puisque nous avons produit des documents indigestes, nous avons créé la grande sucrerie : une grande maquette d'un château s'ouvrant à la manière des maisons de poupée, remplie des cases à remplir pour investir dans le projet Château. Une création ludique pour faciliter la compréhension de nos besoins. Et nous extraire au maximum du sérieux de l'économie pour n'en faire qu'un plateau de jeu, où l'expérience qui y est vécue compte plus que les gains qui s'y rapporteraient...
 Car ce que nous ferons dans ce Château, est la même chose que nous faisons maintenant, ici, à la Cité de la Digue.*
@@ -155,7 +155,7 @@ Car ce que nous ferons dans ce Château, est la même chose que nous faisons mai
 
 ## Le 11ème : M. D. ou S. C. ou celui qui s'appelle Isaac ou un.e autre
 
-<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/507691782" width="540" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/507691782" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></p>
 
 *Chez nous, ici, dans la Cité de la Digue -point de départ logique pour la traversée d'un phare!- , le Château de notre projection est d'offrir une terre d'accueil, de retraite, de distraction, d'élaboration de projets locaux et transnationaux, de création artistique ou numérique, d'une possibilité certaine de pouvoir vivre ce que nous vivons déjà : l'Ensemble.  
 **Ceux qui ont eu l'occasion de venir jusqu'ici savent de quoi nous parlons.**  
