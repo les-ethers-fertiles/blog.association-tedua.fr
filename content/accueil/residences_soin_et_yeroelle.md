@@ -381,7 +381,16 @@ Pourquoi donc sommes-nous 11 ? <a href="https://www.instagram.com/micka_duprat/?
 
 **Contact:** Anne Lucie Dumay (mais pas trop dispo actuellement), Magali De Bortoli (diffusion@association-tedua.fr, 06 52 17 82 20).
 
-**Liens vers l'extérieur cités dans l'article:**  
+**Sources numériques citées dans l'article:**  
 	- https://solidarites-sante.gouv.fr/  
 	- http://carnetdefaits.net/  
-	- https://www.iut.u-bordeaux.fr/cohabit/  
+	- https://www.iut.u-bordeaux.fr/cohabit/
+
+***
+
+**Plus de liens à parcourir** :  
+-- [reportage de la résidence #1](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/)  
+-- [reportage de la résidence #3](https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/)  
+-- [reportage de la résidence #4](https://blog.association-tedua.fr/accueil/residence-4_projet-financier_premiere-etape/)  
+-- [site web de l'association Tedua](https://association-tedua.fr)  
+-- [spectacle "Le Clown et la Fée"](https://leclownetlafee.fr)  

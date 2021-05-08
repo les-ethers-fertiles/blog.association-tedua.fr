@@ -244,6 +244,7 @@ Car il est possible d'affirmer que tous mouvements économiques ne se sont produ
 **Liens vers l'extérieur cités dans l'article:**  
 -- [site internet de la Compagnie des Tiers-Lieux](https://compagnie.tiers-lieux.org/).
 
+***
 
 **Plus de liens à parcourir** :  
 -- [reportage de la résidence #1](https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/)  
