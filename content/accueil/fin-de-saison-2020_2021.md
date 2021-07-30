@@ -3,25 +3,24 @@ image = "/img/portfolio/fin-de-saison-2020_2021/09.2.jpg"
 showonlyimage = false
 draft = false
 date = "2021-04-29T18:20:57.917Z"
-title = "DOUZE+1-1 : Lecture depuis la pénombre du monde | Mai-Juil 2021 [reportage #5]"
+title = "DOUZE+1-1 : Lecture depuis la pénombre du monde | Juil 2021 [reportage #5]"
 weight = 967
 +++
 
 
 
-<br><br>
+*à Valentin, Éric, Léa, Florent, Laure, Jean Jacques, Romain et Ségolène, Simon, Guylaine, Sébastien, Noam, Viatcheslav, Éline, Doriane, Marion et Léa, Christophe, Chakib, Jean, Stéphie, David et Louise, Françoise et Nicolas, David et Roch, Rémi, Catherine, Hélène, Simon, Fabienne, Dimitri, Alex, Charlotte et Robin, Anne Lise,...*
+
+<!--more-->
+
 <img src="/img/portfolio/fin-de-saison-2020_2021/01.jpg" alt=""> 
-
 <br>
 
+---
 
-# ET SI ON ARRÊTAIT DE COMPTER ?
+# Et si on arrêtait de compter ?
 
-<br>
-
-*à Valentin, Éric, Léa, Florent, Laure, Jean Jacques, Romain et Ségolène, Guylaine, Sébastien, Noam, Viatcheslav, Éline, Christophe, Chakib, Jean, Stéphie, David et Louise, Françoise et Nicolas, David et Roch, Catherine, Hélène, Simon, Fabienne, Dimitri, Alex,*
-
-<br>
+---
 
 >> ## 0. INTRODUCTION
 
@@ -59,7 +58,7 @@ Et des bébés.
 
 >> ## 1. NOTRE MÉCÈNE EST UN ANGE.
 
-<p align="left"><font size="2"><i><iframe src="https://archive.org/embed/1.texte-de-magali-de-bortoli" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>-texte d'Anne Lucie-</i></font></p>
+<p align="left"><font size="2"><i><iframe src="https://archive.org/details/4.texte-de-anne-lucie-dumay" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>-texte d'Anne Lucie-</i></font></p>
 
 Éric Léonard. Beaucoup de personnes de notre entourage connaissent Éric Léonard. Mais peut-être que peu savent comment nous l'avons rencontré.
 
@@ -122,7 +121,7 @@ Le 10 décembre 2021.
 250 places.
 À remplir...
 
-Quelques temps plus tard, Éric nous amène à la Cité du Vin dans le but de voir la salle de 'Auditorium et de commencer à parler avec les techniciens qui seront présents pour le bon déroulement de cette représentation.
+Quelques temps plus tard, Éric nous amène à la Cité du Vin dans le but de voir la salle de l'Auditorium et de commencer à parler avec les techniciens qui seront présents pour le bon déroulement de cette représentation.
 
 La salle est magnifique, et l'ouverture du plateau est vaste. C'est une occasion en or pour passer en grand. Ça tombe bien, nous avons déjà tout <a href="https://www.zorozorai.land/#/3" target=_blank>sous la manche</a>) et par l'audace d'offrir à ce spectacle une amplitude adéquate à cette salle, nous honorerons encore cet homme, Éric Léonard, d'avoir su faire fi des codes, d'avoir offert sa confiance, et de s'être reconnu dans le souffle qu'apporte cette pièce de théâtre.
 
@@ -188,7 +187,7 @@ ___
 
 Dans le temps qui à suivi le grand nettoyage du 20 mars à la Cité de la Digue, cet espace de vie n'est pas demeuré sain... Bien que nous l'ayons espéré dans l'article précédent.
 
-Après que nous ayons interpelé par téléphone et par mails le cabinet du Maire de Floirac, puis après que nous nous soyons pointés à neuf plus deux bébés à la mairie un lundi à 9H15 du matin jusqu'à en être accueilli par le premier adjoint au maire, Alexandre Bourigault, et Isaac Bagayoko, responsable du Service Médiation de la ville. Puis après une réunion dans les locaux de la mairie 4 jours plus tard -le 8 juillet- avec une quinzaine de professionnels du travail social et des institutions locales. Le Samedi 17 juillet, enfin, nous avons pu tous les accueillir sur notre lieu de vie : 
+Après que nous ayons interpelé par téléphone et par mails le cabinet du Maire de Floirac, puis après que nous nous soyons pointés à neuf plus deux bébés à la mairie un lundi à 9H15 du matin jusqu'à en être accueillis par le premier adjoint au maire, Alexandre Bourigault, et Isaac Bagayoko, responsable du Service Médiation de la ville. Puis après une réunion dans les locaux de la mairie 4 jours plus tard -le 8 juillet- avec une quinzaine de professionnels du travail social et des institutions locales. Le Samedi 17 juillet, enfin, nous avons pu tous les accueillir sur notre lieu de vie : 
 
 - Madame Nathalie Lacuey, deuxième maire-adjointe de la commune de Floirac,
 - Cédric Flous, directeur général des services et du CCAS à la ville de Floirac,
@@ -199,7 +198,7 @@ Après que nous ayons interpelé par téléphone et par mails le cabinet du Mair
 - Christine Bouquet, présidente d'<a href="https://unire.fr/" target=_blank>UNIRE</a>,
 - Ghislaine Jos, Direction de Transition de UNIRE.
 
-Le but de ce rendez-vous était de mettre en lumière ce site qu'est la Cité de la Digue, qu'une vie possible s'est établie entre 16 locataires en colocations et plus de 50 migrants d'origine bulgare vivant en squat dans les maisons voisines, avec pour titre : voisins.
+Le but de ce rendez-vous était de mettre en lumière ce site qu'est la Cité de la Digue, qu'une vie possible s'est établie entre 16 locataires en colocation et plus de 50 migrants d'origine bulgare vivant en squat dans les maisons voisines, avec pour titre : voisins.
 <br>   
 Pendant ce temps, ailleurs (à Bordeaux) <a href="https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-dans-un-squat-au-nord-de-bordeaux-une-quinzaine-de-caravanes-brulees-2185681.html" target=_blank> d'autres voisins vivent ça</a>.
 
@@ -208,7 +207,7 @@ Pendant ce temps, ailleurs (à Bordeaux) <a href="https://france3-regions.france
 <img src="/img/portfolio/fin-de-saison-2020_2021/06.jpg" alt=""> 
 <br>
 
-Cependant, lorsque nous nous rendons compte que ce n'est que l'ignorance qui empêche les mouvements de partage (comme jeter ses déchets n'importe où par exemple), et lorsque le voisinage souhaite le rester pour faire sonner la possibilité d'UN monde, ce sont les institutions médiatrices, médiantes -comme si leur but n'était qu'à cette posture-, qui sont à appeler, afin qu'elle puisse poser un regard extérieur et donner leur direction avec la responsabilité publique. 
+Cependant, lorsque nous nous rendons compte que ce n'est que l'ignorance qui empêche les mouvements de partage (comme jeter ses déchets n'importe où par exemple), et lorsque le voisinage souhaite le rester pour faire sonner la possibilité d'UN monde, ce sont les institutions médiatrices, médiantes -comme si leur but n'était qu'à cette posture-, qui sont à appeler, afin qu'elles puissent poser un regard extérieur et donner leur direction avec la responsabilité publique. 
 <br><br>
 Pour la Cité de la Digue, voilà ce qui en ressort : 
 - donner un regard sur l'écologie et sur les gestes basiques à fournir dans son quotidien. Par exemple : pas de déchets = pas de rat.
@@ -322,7 +321,7 @@ Peut-être que ce sera toujours à la Cité de la Digue. Peut-être ailleurs.
 
 Nous avons un projet général qui est de trouver un lieu de vie -d'habitat, d'entreprenariat, de spectacles, d'accueil-, et que ce lieu soit suffisament imposant pour faire rayonner cet acte qu'est l'accueil.
 
-Jusqu'à aujourd'hui, parmi l'ensemble des articles (<a href="https://blog.association-tedua.fr/accueil/" target=_blank>de 9+1 à 11+1-1+1</a>), nous n'avions parlé que de l'Île de Patiras. Parce que cette île avait son phare sédentarisé, le miroir que cela nous offrait était suffisament surprenant pour que l'on se lance. Cela nous avait mis assez de baume au cœur pour s'y projeter et même faire dix jours de résidence à sn propos. Et bien que cette idée n'ait pas tenu dans le temps car la masse économique exigée était faramineuse (l'achat d'un bateau, la fabrication d'un ponton par exemple), aussi parce que l'isolement que cela allait nous faire subir était de trop, malgré cela, des oreilles se levèrent parmis les chuchotement de l'air. Merci Siméon Gurnade pour ces échanges téléphoniques, et d'avoir ouvert votre écoute. Bonne route ! Et merci aussi à mon frère, Fabrice, pour le partage de l'annonce immobilière.
+Jusqu'à aujourd'hui, parmi l'ensemble des articles (<a href="https://blog.association-tedua.fr/accueil/" target=_blank>de 9+1 à 11+1-1+1</a>), nous n'avions parlé que de l'Île de Patiras. Parce que cette île avait son phare sédentarisé, le miroir que cela nous offrait était suffisament surprenant pour que l'on se lance. Cela nous avait mis assez de baume au cœur pour s'y projeter et même faire dix jours de résidence à son propos. Et bien que cette idée n'ait pas tenu dans le temps car la masse économique exigée était faramineuse (l'achat d'un bateau, la fabrication d'un ponton par exemple), aussi parce que l'isolement que cela allait nous faire subir était de trop, malgré cela, des oreilles se levèrent parmis les chuchotement de l'air. Merci Siméon Gurnade pour ces échanges téléphoniques, et d'avoir ouvert votre écoute. Bonne route ! Et merci aussi à mon frère, Fabrice, pour le partage de l'annonce immobilière.
 
 <img src="/img/portfolio/fin-de-saison-2020_2021/14.1.jpg" alt="">
 <br>
@@ -447,12 +446,12 @@ Peut-être pas.
 Nous aurons aussi du travail avec des temps de résidences et sans.
 C'est certain !
 Où que nous soyons.
-Il y aura pour sûr des résidence à faire pour le clown, la Fée, YÉROELLE et ses deux étoiles, au moins. Pour ce spectacle, ce conte qui s'appelle : 
+Il y aura pour sûr des résidences à faire pour le Clown, la Fée, YÉROELLE et ses deux Etoiles, au moins. Pour ce spectacle, ce conte qui s'appelle : 
 "Le premier des fils de Yéroelle : le Clown et la Fée".
 
 Ainsi je repose cette question :
 À quoi peuvent bien servir nos projections ?
-Quand on reconnaît la réalité de l'éphémérité ?
+Serait-ce pour reconnaître la réalité de l'éphémérité ?
 Toutes nos projections alors ne seraient plus faites pour nous. 
 Pour qui les discutons-nous alors ?
 Proposition : l'enfance.
@@ -536,9 +535,9 @@ PS : le rêve de Yves : que les terres du patrimoine oublié de l'Entre-Deux-Mer
 **Captation et montage Vidéo:**  
 	- Bastien Lasserre  
 
-**Photographie et retouches:**  
+**Photographies et retouches:**  
 	- Loïc Arnaud  
-        - Jérémy JRC (photo avec les chaussures)
+        - Jérémy Chamot Rossi (photo avec les chaussures de clown)
 
 **Textes et Enregistrements audio:**  
 	- Magali De Bortoli    
@@ -555,7 +554,9 @@ PS : le rêve de Yves : que les terres du patrimoine oublié de l'Entre-Deux-Mer
 	- Alex Giraud  
 	- Jonathan Dupui  
 
-**Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 06 52 17 82 20).
+**Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 07 82 43 20 68).
+
+---
 
 **Sources numériques citées dans l'article:**    
 	- https://unire.fr  
@@ -563,8 +564,9 @@ PS : le rêve de Yves : que les terres du patrimoine oublié de l'Entre-Deux-Mer
 	- https://lilimarleen-groupe.fr  
 	- https://www.alcools-vivant.com/presentation  
 	- https://www.happen.fr/author/collectifsapin  
+	- https://www.jeremychamotrossi.com/gare-dabkhazie.html  
 
-***
+---
 
 **Plus de liens à parcourir** :  
 -- [reportage de la résidence #4](https://blog.association-tedua.fr/accueil/residence-4_projet-financier_premiere-etape/)  
