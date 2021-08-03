@@ -58,7 +58,7 @@ Et des bébés.
 
 >> ## 1. NOTRE MÉCÈNE EST UN ANGE.
 
-<p align="left"><font size="2"><i><iframe src="https://archive.org/details/4.texte-de-anne-lucie-dumay" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>-texte d'Anne Lucie-</i></font></p>
+<p align="left"><font size="2"><i><iframe src="https://archive.org/embed/4.texte-de-anne-lucie-dumay" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>-texte d'Anne Lucie-</i></font></p>
 
 Éric Léonard. Beaucoup de personnes de notre entourage connaissent Éric Léonard. Mais peut-être que peu savent comment nous l'avons rencontré.
 
