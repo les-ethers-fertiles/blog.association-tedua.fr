@@ -40,22 +40,23 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "ACTIVITÉS"
-  url = "/accueil"
-  home = true
 
-  [[params.navlinks]]
-  name = "SPECTACLES"
-  url = "/spectacles-saison-2019-2020"
+    [[params.navlinks]]
+    name = "L' ASSOCIATION"
+    url = "https://www.association-tedua.fr/"
 
-  [[params.navlinks]]
-  name = "PRATIQUE DU JEU : PROPOS"
-  url = "/soumis-par-l-ecoute"
+    [[params.navlinks]]
+    name = "SPECTACLES"
+    url = "/spectacles-saison-2019-2020"
 
-  [[params.navlinks]]
-  name = "L' ASSOCIATION"
-  url = "https://www.association-tedua.fr/"
+    [[params.navlinks]]
+    name = "A PROPOS DE LA PRATIQUE DU JEU"
+    url = "/soumis-par-l-ecoute"
+
+    [[params.navlinks]]
+    name = "MYTHOLOGIE"
+    url = "https://www.zorozorai.land/#/mythologie"
+
 
 
 
