@@ -6,7 +6,7 @@ date: 2020-06-03T21:28:43-05:00
 draft: false
 ---
 
-En plus d'une école de pratique du jeu de clown et de théâtre, l'association TeDua est une plateforme de créations professionnelles et amateures, prêtes à être jouées et diffusées, pour tous les publics.
+L'association TeDua est aussi une plateforme de créations professionnelles et amateures, prêtes à être jouées et diffusées, pour tous les publics.
 
 ### « Zoro Zoraï » 
 - **Réservations**: pour le 25 juillet, prochainement sur [lecerisier.org](http://lecerisier.org/) 
