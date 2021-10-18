@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2020-11-17T08:20:57.917Z"
 title = "L'Entre-Deux-Migrations | Fév 2021 "
-weight = 969
+weight = 980
 +++
 
 Sur une proposition d'écriture de Jean Karinthi -porteur du projet <a href="https://www.hermitagelelab.com/" target=_blank>l'Hermitage Lab</a>-, source de conseils pour le montage de <a href="https://blog.association-tedua.fr/accueil/residence-4_projet-financier_premiere-etape/" target=_blank>notre projet Château</a>- et oreille attentive du suivi de notre travail en équipe -, Habib et Jonathan racontent notre expérience de voisins à la Cité de la Digue depuis plus de deux ans, au milieu de deux "camps" de familles ouvrières d'Europe de l'Est installées dans des maisons de fortune.

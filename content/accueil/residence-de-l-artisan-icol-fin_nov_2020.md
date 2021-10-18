@@ -11,7 +11,6 @@ weight = 975
 
 <audio controls>
   <source src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/cynthia_couture_collectif.mp3" type="audio/mpeg">
- 
 </audio> 
  <p><font size="2"><i>- dans cet enregistrement audio : Cynthia parle de son activité de couturière autonome et de sa rencontre avec Jonathan, Anne Lucie, Habib et Bastien -</i></font></p>
 
