@@ -76,9 +76,3 @@ Les mois à venir vont envoyer du lourd.
 
 **Contact:** Anne Lucie Dumay, Magali De Bortoli (diffusion@association-tedua.fr, 06 15 60 97 04).  
 
-**Liens vers l'extérieur cités dans l'article:**  
--- [ ]( )
-
-**Plus de liens à parcourir** :  
--- [ ]( )
-
