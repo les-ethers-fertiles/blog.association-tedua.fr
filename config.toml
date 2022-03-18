@@ -46,7 +46,7 @@ googleAnalytics = ""
     home = true
 
     [[params.navlinks]]
-    name = "L' ASSOCIATION"
+    name = "L'ASSOCIATION"
     url = "https://www.association-tedua.fr/"
 
     [[params.navlinks]]
@@ -54,12 +54,16 @@ googleAnalytics = ""
     url = "/spectacles-saison-2019-2020"
 
     [[params.navlinks]]
-    name = "A PROPOS DE LA PRATIQUE DU JEU"
+    name = "À PROPOS DE LA PRATIQUE DU JEU"
     url = "/soumis-par-l-ecoute"
 
     [[params.navlinks]]
     name = "MYTHOLOGIE"
     url = "https://www.zorozorai.land/#/mythologie"
+
+    [[params.navlinks]]
+    name = "L'ÉQUIPE"
+    url = "/l-equipe"
 
 
 
@@ -69,7 +73,7 @@ googleAnalytics = ""
   facebook      = "https://www.facebook.com/groups/386241745191819/"
   youtube       = "https://vimeo.com/user98228649"
   instagram     = "https://www.instagram.com/anneluciedumay"
-  github        = "https://github.com/habsinn/"
+  github        = "https://github.com/les-ethers-fertiles"
   twitter       = "https://twitter.com/habsinn"
 
 [markup]
