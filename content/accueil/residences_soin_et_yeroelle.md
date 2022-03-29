@@ -330,7 +330,7 @@ Et qui fait jouer les comédiens, est-ce également notre imaginaire ?
 
 <br>
 
-Alors nous allons, comme toujours, encore, comme déjà tant de "encore!?", toujours, continuer. À quoi cela pourrait-il bien servir de faire autre chose? Nous avons suffisament de tranquilité et de joie ici. Et nous arrivons à remplir nos journées de choses à produire qui, en plus, ne sont nourries que par le désir d'offrir cette tranquilité infinie. De souffler. Une bonne fois pour toutes...  
+Alors nous allons, comme toujours, encore, comme déjà tant de "encore!?", toujours, [continuer](https://blog.association-tedua.fr/accueil/fin-de-saison-2020_2021/). À quoi cela pourrait-il bien servir de faire autre chose? Nous avons suffisament de tranquilité et de joie ici. Et nous arrivons à remplir nos journées de choses à produire qui, en plus, ne sont nourries que par le désir d'offrir cette tranquilité infinie. De souffler. Une bonne fois pour toutes...  
 Nous avons bien une piste pour le château, mais nous attendons des réponses pour poursuivre. Peut être qu'un autre article en reparlera. Et d'ici là : est-il nécessaire de vous dire que vous êtes les bienvenu.e.s ? Pas autant qu'Isaac, mais presque.
 
 Et pendant ce temps, comme ce qu'on sait déjà de lui, Farid s'occupe du plus tard, de l'après.

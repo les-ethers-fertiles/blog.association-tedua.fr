@@ -103,7 +103,7 @@ Le clown Mouce monte sur scène devant le voisinage confiné de la Cité de la D
 
 ---
 
-## Les suites à venir..
+##  <a href="https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/">Les suites à venir...</a>
 *“Et tout va toujours, comme toujours, continuer. Nous enchaînerons les résidences, comme celle qui commence déjà avec la remise au propre de la Mythologie du Phare, ou celle qui suit avec l’artisanat de Loïc, et d’autres toujours. Comme un mouvement ne nécessitant aucune fin.
 Il ne reste donc plus que quelques questions : jusqu’à quand Habib Belaribi occupera-t-il ses fonctions de patron (bien que ce soit un contrat renouvelable) ? Pourquoi est ce que nous disons neuf plus un et pas dix ? Parce que le dixième est encore dans le ventre de sa mère. Et je peux même vous dire neuf plus deux, un onzième commence dans le ventre d’une autre. Jusqu’à quand alors Habib Belaribi porte l’insigne de patron ? jusqu’à ce qu’il porte, à vie, l’insigne de papa. Tiendrait-il à lui comme à moi de l’être ? Ou bien à Anne Lucie comme à Cynthia d’être mères ? Ou pouvons-nous être certains d’offrir déjà le terreau de la liberté aux vies futures ? Oui ! Nous ne sommes plus seuls.”* - Jonathan.
 

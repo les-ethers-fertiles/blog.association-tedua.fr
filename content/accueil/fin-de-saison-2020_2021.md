@@ -496,7 +496,10 @@ Pierre et plume.
 
 Et ainsi,
 Ainsi
-Finir en s'installant confortablement au bord de la pénombre du monde pour son bouquet final.
+Finir en s'installant confortablement au bord de la [pénombre du monde](https://www.zorozorai.land/#/mythologie) pour son bouquet final.
+
+...
+...
 
 Depuis le bord de la pénombre du monde...
 Qu'avons-nous réellement besoin de compter ?
@@ -522,7 +525,7 @@ PS : le rêve de Yves : que les terres du patrimoine oublié de l'Entre-Deux-Mer
 
 ***
 
-*---article bouclé le mardi 30 juillet 2021 (jour des trois mois d'Isaac :-)---*
+*---article bouclé le mardi 30 juillet 2021. (jour des trois mois d'Isaac :-)---*
 
 ***
 
