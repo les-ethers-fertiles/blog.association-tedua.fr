@@ -1,10 +1,31 @@
 ---
 title: "Journal du phare coulant"
-description: ""
+description: "jusqu'à ce qu'on trouve assez d'air pour flotter à nouveau, assez d'air pour faire durer le geste d'accueil"
 #image:
 #date: 
 draft: false
 ---
+
+## 4 avril 2022 - journal du Roi du phare coulant
+
+je suis parti de nouveau et un peu en exile sur une île interdite (qui coule aussi, c'est du boulot !)
+
+hier, j'ai évoqué de prendre le rôle de Roi (en plus du rôle de Reine)\
+le bouffon m'a demandé s'il pouvait être le bouffon
+
+j'ai la flemme d'être Roi et je ne sais pas comment on peut flotter à nouveau sans que je le sois, alors j'accepte\
+pff ! récemment, quand qu'on a compté les molécules d'air et d'eau dans le phare, les autres avaient oublié qu'on devait rendre de l'air aux personnes qui nous changent d'eau. on ne peut compter avec personne !
+et en même temps, la Comptabilité des Molécules, c'est quand même relou\
+Royalement relou\
+alors je prends
+
+le savon au lait de mer n'est pas salé, pas sucré, pas acide\
+il est doux, lave bien et me rappelle le phare
+
+pour l'air, on a évoqué un café "qui commence tout de suite"\
+aujourd'hui ou demain, j'ouvre un restaurant d'algues et de coraux (enfin, ce qu'il en reste)
+
+
 
 ## 2 avril 2022
 
@@ -31,5 +52,4 @@ SOS\
 nous coulons alors que nous devrions flotter\
 envoyez l'air qui reste, celui des souffles en trop, celui des tuyaux, les bulles d'air dont vous ne voulez pas\
 envoyez du scotch, des planches, des casseroles pour écoper\
-env\
-EOT
+envEOT
