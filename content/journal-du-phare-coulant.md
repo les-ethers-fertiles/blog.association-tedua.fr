@@ -6,6 +6,26 @@ description: "jusqu'à ce qu'on trouve assez d'air pour flotter à nouveau, asse
 draft: false
 ---
 
+## 6 avril 2022
+
+Pouaaaah ! Mais ça pue le poisson ! Qui cuisine du poisson et laisse une odeur pareil !!
+
+ça doit être la hotte qui ne marche pas\
+il s'agirait de s'assurer que l'air se renouvelle
+
+par ici, les moments sont restés éphémères\
+il s'agirait de s'assurer le présent reste au présent et de ne pas polluer le présent avec du futur ; laisser le futur devenir le présent à son rythme à lui
+
+un peu de lenteur\
+Sonia était là et son regard bienveillant, amusé parfois\
+je te remercie pour m'avoir montré le chemin, m'avoir encouragé à ne pas le quitter, pour avoir été aussi exigente avec moi et d'être restée à mes côtés\
+je te remercie pour ta confiance quand je t'ai demandé de me laisser plus de place
+
+je rentre au phare coulant le cœur plein, [optimist](https://www.youtube.com/watch?v=M4xVOhVX8T4)
+
+
+
+
 ## 4 avril 2022 - journal du Roi du phare coulant
 
 je suis parti de nouveau et un peu en exile sur une île interdite (qui coule aussi, c'est du boulot !)
