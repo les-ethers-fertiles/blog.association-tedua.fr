@@ -6,6 +6,21 @@ description: "jusqu'à ce qu'on trouve assez d'air pour flotter à nouveau, asse
 draft: false
 ---
 
+
+## 16 avril 2022
+
+un gros ballon arrive\
+ce n'est pas une solution de long terme,\
+mais c'est toujours mieux que rien
+
+on a nettoyé quelques pets de la cave\
+on a respiré longuement et repartagé nos vents\
+on a eu des nouvelles des prochaines eaux
+
+on coule toujours, mais la joie est revenue au centre
+
+
+
 ## 6 avril 2022
 
 Pouaaaah ! Mais ça pue le poisson ! Qui cuisine du poisson et laisse une odeur pareil !!
