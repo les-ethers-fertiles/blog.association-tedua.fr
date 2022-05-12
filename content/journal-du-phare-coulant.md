@@ -6,6 +6,22 @@ description: "jusqu'à ce qu'on trouve assez d'air pour flotter à nouveau, asse
 draft: false
 ---
 
+## 12 mai 2022
+
+Entre trois eaux\
+Ptèt que quand on glisse, il suffit de rajouter une personne
+
+Même sur un sol instable, I s'est mis à marcher\
+tomber, se relever, marcher\
+jusqu'à là-bas, pointer du doigt
+
+des craquelures qui font perdre de l'air sont visibles\
+il n'y a que la lacheté qui m'empêche de les corriger
+
+on y arrivera à temps
+
+
+
 ## 6 mai 2022
 
 On coule toujours
