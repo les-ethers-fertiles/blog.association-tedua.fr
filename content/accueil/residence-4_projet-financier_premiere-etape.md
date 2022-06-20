@@ -15,7 +15,7 @@ weight = 971
 
 *Dans* <a href="https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/">l'article précédent</a>, *nous avions passé le quatrième dimanche...* 
 
-<p align="center"><iframe width="100%" height="100%" src="https://tube.aquilenet.fr/videos/embed/230768c8-790b-4983-a50c-4da1e048aced?fbclid=IwAR2FO6ADGFES1Dnx_U-https://blog.association-tedua.fr/accueil/residence-4_projet-financier_premiere-etape/0WP7jG9QYm4o_kv0fN1EcMtHMgwlt4yyMtMVUNhI" frameborder="0" allowfullscreen></iframe></p>
+(ici, une vidéo a été supprimée)
 
 *...et nous précisions que la quantité de travail de retranscription était lourde. Que nous n'avions pas pu finir à temps. Mais nous avons, comme toujours, continué.* 
 
