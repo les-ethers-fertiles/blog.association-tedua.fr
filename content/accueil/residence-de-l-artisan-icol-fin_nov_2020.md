@@ -147,7 +147,7 @@ Comme d'un geste nous dépossédant de nous-mêmes. D'une crainte que l'expositi
 <br>
 
 Photo du moment où *le loup-informaticien-bêtise-phalocrate se fait attaquer par la poupée de chiffon-qui-dit-des-gros-mots en rentrant dans son cul*.   
-Alors qu'il comptait s'essuyer avec ce qu'il croyait être une petite chose comme nous avait inculqué le patriarcat. N'ayant pas pris le temps de voir la [majestuosité](https://icol-crea.net/products/product-2/) de celle que l'idiot nommerait "*connasse*" :
+Alors qu'il comptait s'essuyer avec ce qu'il croyait être une petite chose comme nous avait inculqué le patriarcat. N'ayant pas pris le temps de voir la majestuosité de celle que l'idiot nommerait "*connasse*" :
 
 <img src="/img/portfolio/residence-de-l-artisan-icol-fin_nov_2020/13.jpg" alt="">
 <br>
