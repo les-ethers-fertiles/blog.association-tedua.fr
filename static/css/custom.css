@@ -4,3 +4,41 @@ audio{
     width: 100%;
     margin-bottom: 3rem;
 }
+
+.content-column-content blockquote{
+    color: #888;
+}
+
+.content-column-content blockquote p{
+    color: inherit;
+}
+
+/* 
+    il y avait un conflit entre le css de theme-green et slick-theme
+    cette ligne résoud le conflit 
+*/
+.content-column-content ul.slick-dots li::before{
+    content: none;
+}
+
+.slick-prev::before, .slick-next::before{
+    color: gray; /* sinon la couleur est blanche et on ne voit pas les flèches */
+}
+
+.slick-slide{
+    margin: 0 1rem;
+
+    /* 
+    Pour que toutes les images aient la même hauteur (puis on rogne sur les côté 
+    droits et gauches des images qui sont trop petites par défaut)
+    */
+    height: 225px;
+}
+
+.slick-slide > div{
+    height: 100%;
+}
+.slick-slide > div > img{
+    height: 100%;
+    object-fit: cover;
+}
