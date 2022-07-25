@@ -57,7 +57,7 @@ Pour cette date à la Cité du vin, nous n'avions aucune aide de notre hôte pou
 
 Un travail précis, de longue haleine, a été produit par Habib. C'est son travail à lui, qui a permis de faire salle pleine. En suivant [ce lien](https://cloud.cestlebouquet.fr/index.php/s/AipJWwga2JX3RKq), il est possible de voir tout son process de communication... (Enfin, il va le faire, le finir, il est en train, ce ne serait tar...) De vous en servir ou/et de lui faire retour. Peut-être que même des programmateurs, passant par ici, pourraient - au-delà de comprendre leur possibilité de se séparer de leurs craintes, afin de s'engager dans la lecture du propos d'intérêt général que ce spectacle offre dans sa rencontre intime, mais également dans son intergénérationnalité, son souci sociétal, sa détermination politique ; au-delà de comprendre que nous avons percer à jour un certain geste pour respirer hors de la dépression, et que ce spectacle est le miroir de ce geste, peut-être qu'au-delà de tout cela - ils pourraient en apprendre sur la communication. Mais bon, faudrait qu'ils passent par là...
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/689368776?h=4e22713e2a" width="680" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/689368776?h=4e22713e2a" frameborder="0" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -144,7 +144,7 @@ Nous ne nous arrêtons pas à une saison, nous en faisons une deuxième. Et nous
 
 La communication est lancée. Nous avons pour cela créé.e.s [une page](https://www.association-tedua.fr/prepa-concours/) dans le site internet de l'association tedua.
 
-<iframe title="Formation à la préparation aux concours" src="https://www.association-tedua.fr/prepa-concours/" width="680" height="270" frameborder="1" allowfullscreen></iframe>
+<iframe title="Formation à la préparation aux concours" src="https://www.association-tedua.fr/prepa-concours/" frameborder="1" allowfullscreen></iframe>
 
 
 <BR>
@@ -212,7 +212,7 @@ ___
 
 ---
 
-**Date de parution:** le 24 juillet 2022.
+**Date de parution:** le 25 juillet 2022.
 
 **Écriture**:  
     - Jonathan Dupui 

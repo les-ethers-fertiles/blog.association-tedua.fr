@@ -13,6 +13,11 @@ audio{
     color: inherit;
 }
 
+.content-column-content iframe{
+    width: 100%;
+    max-height: 60vh;
+}
+
 /* 
     il y avait un conflit entre le css de theme-green et slick-theme
     cette ligne résoud le conflit 
@@ -41,4 +46,8 @@ audio{
 .slick-slide > div > img{
     height: 100%;
     object-fit: cover;
+}
+
+.content-column-content .slick-dots{
+    position: static;
 }
