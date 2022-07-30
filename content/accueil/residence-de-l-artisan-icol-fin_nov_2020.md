@@ -89,8 +89,6 @@ C'est le choix de [Julie Hercberg](https://www.leclownetlafee.fr/pages/l-equipe/
 <br>
 
 
-####  Quatre moments de vie. Quatre bijoux.
-
 Pourquoi s'octroyer le droit des détails, comme des bijoux, sur la scène?  
 Si la beauté est là et si la scène est suffisamment petite ?   
 Et si le geste est reconnu dans le texte?  
